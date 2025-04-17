@@ -1,0 +1,925 @@
+@prefix ex: <http://example.org/monuments#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.wikidata.org/entity/Q184427> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "India" ;
+    ex:creationYear "-0200-01-01T00:00:00Z" ;
+    ex:name "Ajanta Caves" .
+
+<http://www.wikidata.org/entity/Q184429> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Romania",
+        "Ukraine" ;
+    ex:creationYear "1991-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Danube Delta" .
+
+<http://www.wikidata.org/entity/Q184534> a ex:Monument ;
+    ex:architecturalStyle "Ottoman architecture" ;
+    ex:continent "Asia" ;
+    ex:country "Turkey" ;
+    ex:creationYear "1575-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:hasArchitect "Mimar Sinan" ;
+    ex:name "Selimiye Mosque" .
+
+<http://www.wikidata.org/entity/Q186312> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Israel" ;
+    ex:name "Masada" .
+
+<http://www.wikidata.org/entity/Q186536> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "France" ;
+    ex:name "Fort Douaumont" .
+
+<http://www.wikidata.org/entity/Q187635> a ex:Monument ;
+    ex:architecturalStyle "Islamic architecture" ;
+    ex:continent "Asia" ;
+    ex:country "India" ;
+    ex:name "Qutb Minar" .
+
+<http://www.wikidata.org/entity/Q188617> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "United Kingdom" ;
+    ex:name "Kew Gardens" .
+
+<http://www.wikidata.org/entity/Q188694> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Albania" ;
+    ex:name "Butrint" .
+
+<http://www.wikidata.org/entity/Q188754> a ex:Monument ;
+    ex:architecturalStyle "Japanese castle architecture" ;
+    ex:continent "Asia" ;
+    ex:country "Japan" ;
+    ex:creationYear "1346-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Himeji Castle" .
+
+<http://www.wikidata.org/entity/Q188938> a ex:Monument ;
+    ex:continent "Africa" ;
+    ex:country "Tunisia" ;
+    ex:name "Djerba" .
+
+<http://www.wikidata.org/entity/Q189113> a ex:Monument ;
+    ex:continent "North America" ;
+    ex:country "Canada" ;
+    ex:name "L'Anse aux Meadows" .
+
+<http://www.wikidata.org/entity/Q189358> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Denmark" ;
+    ex:name "Kronborg Castle" .
+
+<http://www.wikidata.org/entity/Q189417> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Italy" ;
+    ex:creationYear "-0311-01-01T00:00:00Z" ;
+    ex:name "Appian Way" .
+
+<http://www.wikidata.org/entity/Q189616> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "India" ;
+    ex:name "Ellora Caves" .
+
+<http://www.wikidata.org/entity/Q189648> a ex:Monument ;
+    ex:architecturalStyle "Mughal architecture" ;
+    ex:continent "Asia" ;
+    ex:country "India" ;
+    ex:name "Humayun's Tomb" .
+
+<http://www.wikidata.org/entity/Q189657> a ex:Monument ;
+    ex:continent "Oceania" ;
+    ex:country "Australia" ;
+    ex:creationYear "1979-04-05T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Kakadu National Park" .
+
+<http://www.wikidata.org/entity/Q189764> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "France" ;
+    ex:creationYear "0050-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Pont du Gard" .
+
+<http://www.wikidata.org/entity/Q189849> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Croatia" ;
+    ex:creationYear "1949-04-08T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Plitvice Lakes National Park" .
+
+<http://www.wikidata.org/entity/Q189934> a ex:Monument ;
+    ex:continent "North America",
+        "South America" ;
+    ex:country "Suriname" ;
+    ex:name "Central Suriname Nature Reserve" .
+
+<http://www.wikidata.org/entity/Q190048> a ex:Monument ;
+    ex:continent "Africa" ;
+    ex:country "Algeria" ;
+    ex:name "Tassili n'Ajjer" .
+
+<http://www.wikidata.org/entity/Q190060> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Vietnam" ;
+    ex:name "Citadel of the Hồ Dynasty" .
+
+<http://www.wikidata.org/entity/Q190128> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Vietnam" ;
+    ex:name "Ha Long Bay" .
+
+<http://www.wikidata.org/entity/Q190165> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Laos" ;
+    ex:name "Luang Prabang" .
+
+<http://www.wikidata.org/entity/Q191763> a ex:Monument ;
+    ex:architecturalStyle "Shinden-zukuri" ;
+    ex:continent "Asia" ;
+    ex:country "Japan" ;
+    ex:creationYear "0593-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Itsukushima Shrine" .
+
+<http://www.wikidata.org/entity/Q192201> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Austria" ;
+    ex:name "Wachau" .
+
+<http://www.wikidata.org/entity/Q192243> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Belarus",
+        "Estonia",
+        "Finland",
+        "Latvia",
+        "Lithuania",
+        "Moldova",
+        "Norway",
+        "Russia",
+        "Sweden",
+        "Ukraine" ;
+    ex:name "Struve Geodetic Arc" .
+
+<http://www.wikidata.org/entity/Q192493> a ex:Monument ;
+    ex:continent "Africa" ;
+    ex:country "South Africa" ;
+    ex:name "Robben Island" .
+
+<http://www.wikidata.org/entity/Q192518> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Yemen" ;
+    ex:name "Shibam" .
+
+<http://www.wikidata.org/entity/Q192522> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Turkey" ;
+    ex:creationYear "-7499-01-01T00:00:00Z" ;
+    ex:name "Çatalhöyük" .
+
+<http://www.wikidata.org/entity/Q192666> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Belarus",
+        "Poland" ;
+    ex:creationYear "1932-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Białowieża Forest" .
+
+<http://www.wikidata.org/entity/Q192764> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "India" ;
+    ex:creationYear "1905-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Kaziranga National Park" .
+
+<http://www.wikidata.org/entity/Q193241> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Bulgaria" ;
+    ex:name "Nesebar" .
+
+<http://www.wikidata.org/entity/Q193325> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Turkmenistan" ;
+    ex:name "Merv" .
+
+<http://www.wikidata.org/entity/Q197094> a ex:Monument ;
+    ex:architecturalStyle "Byzantine architecture" ;
+    ex:continent "Asia" ;
+    ex:country "Turkey" ;
+    ex:creationYear "1136-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Zeyrek Mosque" .
+
+<http://www.wikidata.org/entity/Q199234> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "France" ;
+    ex:creationYear "1615-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Cordouan Lighthouse" .
+
+<http://www.wikidata.org/entity/Q200200> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Iraq" ;
+    ex:creationYear "-2499-01-01T00:00:00Z" ;
+    ex:name "Assur" .
+
+<http://www.wikidata.org/entity/Q200521> a ex:Monument ;
+    ex:continent "North America" ;
+    ex:country "Saint Kitts and Nevis" ;
+    ex:creationYear "1987-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Brimstone Hill Fortress National Park" .
+
+<http://www.wikidata.org/entity/Q201428> a ex:Monument ;
+    ex:architecturalStyle "Renaissance architecture" ;
+    ex:continent "Europe" ;
+    ex:country "France" ;
+    ex:name "Palace of Fontainebleau" .
+
+<http://www.wikidata.org/entity/Q202494> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "France" ;
+    ex:name "Canal du Midi" .
+
+<http://www.wikidata.org/entity/Q202845> a ex:Monument ;
+    ex:continent "Australian continent",
+        "Insular Oceania",
+        "Oceania" ;
+    ex:country "New Zealand" ;
+    ex:creationYear "1887-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Tongariro National Park" .
+
+<http://www.wikidata.org/entity/Q203197> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Sri Lanka" ;
+    ex:name "Kandy" .
+
+<http://www.wikidata.org/entity/Q205367> a ex:Monument ;
+    ex:architecturalStyle "French Renaissance architecture" ;
+    ex:continent "Europe" ;
+    ex:country "France" ;
+    ex:creationYear "1520-01-01T00:00:00+00:00"^^xsd:dateTime,
+        "1545-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:hasArchitect "Jacques Sourdeau",
+        "Pierre Nepveu" ;
+    ex:name "Château de Chambord" .
+
+<http://www.wikidata.org/entity/Q205558> a ex:Monument ;
+    ex:architecturalStyle "Gothic architecture",
+        "Renaissance architecture",
+        "Romanesque architecture" ;
+    ex:continent "Europe" ;
+    ex:country "Slovakia" ;
+    ex:creationYear "1200-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Spiš Castle" .
+
+<http://www.wikidata.org/entity/Q205711> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Russia" ;
+    ex:name "Solovetsky Islands" .
+
+<http://www.wikidata.org/entity/Q205832> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Greece" ;
+    ex:name "Corfu" .
+
+<http://www.wikidata.org/entity/Q205952> a ex:Monument ;
+    ex:continent "North America" ;
+    ex:country "United States" ;
+    ex:creationYear "1916-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Hawaiʻi Volcanoes National Park" .
+
+<http://www.wikidata.org/entity/Q206194> a ex:Monument ;
+    ex:continent "North America" ;
+    ex:country "Haiti" ;
+    ex:name "Citadelle Laferrière" .
+
+<http://www.wikidata.org/entity/Q206219> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Vietnam" ;
+    ex:name "Imperial Citadel of Thang Long" .
+
+<http://www.wikidata.org/entity/Q206236> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Iraq" ;
+    ex:name "Citadel of Erbil" .
+
+<http://www.wikidata.org/entity/Q207193> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Ireland" ;
+    ex:name "Skellig Michael" .
+
+<http://www.wikidata.org/entity/Q207692> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "People's Republic of China" ;
+    ex:name "Wuyi Mountains" .
+
+<http://www.wikidata.org/entity/Q207917> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Turkey" ;
+    ex:name "Mount Nemrut" .
+
+<http://www.wikidata.org/entity/Q207985> a ex:Monument ;
+    ex:architecturalStyle "classic gothic" ;
+    ex:continent "Europe" ;
+    ex:country "France" ;
+    ex:creationYear "1195-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Bourges Cathedral" .
+
+<http://www.wikidata.org/entity/Q208181> a ex:Monument ;
+    ex:architecturalStyle "English Baroque" ;
+    ex:continent "Europe" ;
+    ex:country "United Kingdom" ;
+    ex:creationYear "1705-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Blenheim Palace" .
+
+<http://www.wikidata.org/entity/Q208559> a ex:Monument ;
+    ex:architecturalStyle "Baroque art" ;
+    ex:continent "Europe" ;
+    ex:country "Sweden" ;
+    ex:creationYear "1699-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:hasArchitect "Nicodemus Tessin the Elder" ;
+    ex:name "Drottningholm Palace" .
+
+<http://www.wikidata.org/entity/Q208633> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Italy" ;
+    ex:creationYear "1335-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:hasArchitect "Neri di Fioravante" ;
+    ex:name "Ponte Vecchio" .
+
+<http://www.wikidata.org/entity/Q209217> a ex:Monument ;
+    ex:continent "Africa" ;
+    ex:country "Zimbabwe" ;
+    ex:name "Great Zimbabwe" .
+
+<http://www.wikidata.org/entity/Q209643> a ex:Monument ;
+    ex:architecturalStyle "Belarusian Gothic",
+        "Gothic architecture",
+        "Renaissance architecture",
+        "baroque architecture" ;
+    ex:continent "Europe" ;
+    ex:country "Belarus" ;
+    ex:name "Mir Castle Complex" .
+
+<http://www.wikidata.org/entity/Q209705> a ex:Monument ;
+    ex:architecturalStyle "Brick Gothic" ;
+    ex:continent "Europe" ;
+    ex:country "Denmark" ;
+    ex:creationYear "1201-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:hasArchitect "Absalon" ;
+    ex:name "Roskilde Cathedral" .
+
+<http://www.wikidata.org/entity/Q210055> a ex:Monument ;
+    ex:architecturalStyle "Ottoman architecture" ;
+    ex:continent "Europe" ;
+    ex:country "Bosnia and Herzegovina" ;
+    ex:hasArchitect "Mimar Sinan" ;
+    ex:name "Mehmed Paša Sokolović Bridge" .
+
+<http://www.wikidata.org/entity/Q210610> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Iran" ;
+    ex:name "Golestan Palace" .
+
+<http://www.wikidata.org/entity/Q210678> a ex:Monument ;
+    ex:architecturalStyle "Romanesque architecture" ;
+    ex:continent "Europe" ;
+    ex:country "Norway" ;
+    ex:creationYear "1101-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Urnes Stave Church" .
+
+<http://www.wikidata.org/entity/Q210957> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "United Kingdom" ;
+    ex:creationYear "0142-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Antonine Wall" .
+
+<http://www.wikidata.org/entity/Q211252> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Spain" ;
+    ex:creationYear "1000-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Madinat Al-Zahra" .
+
+<http://www.wikidata.org/entity/Q211778> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "United Kingdom" ;
+    ex:creationYear "1951-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Lake District" .
+
+<http://www.wikidata.org/entity/Q211962> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Russia" ;
+    ex:creationYear "1337-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Trinity Lavra of St. Sergius" .
+
+<http://www.wikidata.org/entity/Q212214> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Italy" ;
+    ex:name "Amalfi Coast" .
+
+<http://www.wikidata.org/entity/Q213237> a ex:Monument ;
+    ex:continent "South America" ;
+    ex:country "Argentina" ;
+    ex:name "Valdes Peninsula" .
+
+<http://www.wikidata.org/entity/Q213988> a ex:Monument ;
+    ex:architecturalStyle "Nordic Classicism",
+        "functionalism" ;
+    ex:continent "Europe" ;
+    ex:country "Sweden" ;
+    ex:creationYear "1915-01-01T00:00:00+00:00"^^xsd:dateTime,
+        "1920-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:hasArchitect "Gunnar Asplund" ;
+    ex:name "Skogskyrkogården" .
+
+<http://www.wikidata.org/entity/Q214007> a ex:Monument ;
+    ex:continent "Africa" ;
+    ex:country "Botswana" ;
+    ex:name "Tsodilo" .
+
+<http://www.wikidata.org/entity/Q214827> a ex:Monument ;
+    ex:continent "North America" ;
+    ex:country "Honduras" ;
+    ex:name "Copán" .
+
+<http://www.wikidata.org/entity/Q214944> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Turkey" ;
+    ex:creationYear "-9999-01-01T00:00:00Z" ;
+    ex:name "Göbekli Tepe" .
+
+<http://www.wikidata.org/entity/Q215315> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Lithuania" ;
+    ex:name "Kernavė" .
+
+<http://www.wikidata.org/entity/Q215429> a ex:Monument ;
+    ex:architecturalStyle "Gothic Revival",
+        "Gothic architecture" ;
+    ex:continent "Europe" ;
+    ex:country "Belgium" ;
+    ex:name "Grand-Place" .
+
+<http://www.wikidata.org/entity/Q242741> a ex:Monument ;
+    ex:architecturalStyle "Ionic order",
+        "ancient Greek architecture" ;
+    ex:continent "Europe" ;
+    ex:country "Greece" ;
+    ex:creationYear "-0500-01-01T00:00:00Z" ;
+    ex:hasArchitect "Mnesikles",
+        "Phidias" ;
+    ex:name "Erechtheion" .
+
+<http://www.wikidata.org/entity/Q244347> a ex:Monument ;
+    ex:continent "Africa" ;
+    ex:country "Senegal" ;
+    ex:name "Gorée" .
+
+<http://www.wikidata.org/entity/Q244952> a ex:Monument ;
+    ex:architecturalStyle "Italian Gothic architecture",
+        "Renaissance architecture" ;
+    ex:continent "Europe" ;
+    ex:country "Italy" ;
+    ex:creationYear "1401-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:hasArchitect "Donato Bramante",
+        "Guiniforte Solari",
+        "Piero Portaluppi" ;
+    ex:name "Santa Maria delle Grazie Church" .
+
+<http://www.wikidata.org/entity/Q245151> a ex:Monument ;
+    ex:architecturalStyle "ancient Roman architecture" ;
+    ex:continent "Europe" ;
+    ex:country "Spain" ;
+    ex:creationYear "0100-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Tower of Hercules" .
+
+<http://www.wikidata.org/entity/Q251999> a ex:Monument ;
+    ex:continent "Oceania" ;
+    ex:country "Australia" ;
+    ex:creationYear "1958-01-23T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Uluṟu-Kata Tjuṯa National Park" .
+
+<http://www.wikidata.org/entity/Q252814> a ex:Monument ;
+    ex:continent "North America" ;
+    ex:country "United States" ;
+    ex:name "Taos Pueblo" .
+
+<http://www.wikidata.org/entity/Q253241> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Italy" ;
+    ex:name "Su Nuraxi di Barumini" .
+
+<http://www.wikidata.org/entity/Q257598> a ex:Monument ;
+    ex:continent "North America" ;
+    ex:country "Canada" ;
+    ex:creationYear "2005-10-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Gros Morne National Park" .
+
+<http://www.wikidata.org/entity/Q259313> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Austria" ;
+    ex:name "Semmering railway" .
+
+<http://www.wikidata.org/entity/Q260465> a ex:Monument ;
+    ex:continent "Oceania" ;
+    ex:country "Australia" ;
+    ex:name "Budj Bim" .
+
+<http://www.wikidata.org/entity/Q263883> a ex:Monument ;
+    ex:continent "Africa" ;
+    ex:country "Republic of the Congo" ;
+    ex:creationYear "1935-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Odzala National Park" .
+
+<http://www.wikidata.org/entity/Q265453> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Belgium" ;
+    ex:name "Béguinages in Flanders" .
+
+<http://www.wikidata.org/entity/Q267394> a ex:Monument ;
+    ex:continent "South America" ;
+    ex:country "Brazil" ;
+    ex:creationYear "1979-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Serra da Capivara National Park" .
+
+<http://www.wikidata.org/entity/Q270725> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Russia" ;
+    ex:creationYear "1524-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Novodevichy Convent" .
+
+<http://www.wikidata.org/entity/Q272153> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Sri Lanka" ;
+    ex:name "Sigiriya" .
+
+<http://www.wikidata.org/entity/Q272680> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Syria" ;
+    ex:name "Bosra" .
+
+<http://www.wikidata.org/entity/Q272768> a ex:Monument ;
+    ex:continent "Africa" ;
+    ex:country "Seychelles" ;
+    ex:name "Aldabra" .
+
+<http://www.wikidata.org/entity/Q272771> a ex:Monument ;
+    ex:continent "North America" ;
+    ex:country "Mexico" ;
+    ex:name "Calakmul" .
+
+<http://www.wikidata.org/entity/Q272777> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Italy" ;
+    ex:name "Hadrian's Villa" .
+
+<http://www.wikidata.org/entity/Q272781> a ex:Monument ;
+    ex:architecturalStyle "Manueline",
+        "Renaissance architecture" ;
+    ex:continent "Europe" ;
+    ex:country "Portugal" ;
+    ex:creationYear "1502-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:hasArchitect "Diego de Torralva",
+        "Diogo de Boitaca",
+        "Nicolau Chanterene" ;
+    ex:name "Jerónimos Monastery" .
+
+<http://www.wikidata.org/entity/Q273195> a ex:Monument ;
+    ex:continent "North America" ;
+    ex:country "United States" ;
+    ex:creationYear "1930-05-14T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Carlsbad Caverns National Park" .
+
+<http://www.wikidata.org/entity/Q273456> a ex:Monument ;
+    ex:continent "Africa" ;
+    ex:country "Ethiopia" ;
+    ex:name "Omo River" .
+
+<http://www.wikidata.org/entity/Q273834> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "People's Republic of China" ;
+    ex:name "Longmen Grottoes" .
+
+<http://www.wikidata.org/entity/Q274131> a ex:Monument ;
+    ex:continent "North America" ;
+    ex:country "United States" ;
+    ex:creationYear "1947-12-06T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Everglades National Park" .
+
+<http://www.wikidata.org/entity/Q276553> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Bulgaria" ;
+    ex:creationYear "0980-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Boyana Church" .
+
+<http://www.wikidata.org/entity/Q277525> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "North Korea" ;
+    ex:name "Goguryeo tombs" .
+
+<http://www.wikidata.org/entity/Q277540> a ex:Monument ;
+    ex:continent "South America" ;
+    ex:country "Peru" ;
+    ex:creationYear "0850-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Chan Chan" .
+
+<http://www.wikidata.org/entity/Q277576> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Russia" ;
+    ex:name "Putorana Plateau" .
+
+<http://www.wikidata.org/entity/Q277683> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Russia" ;
+    ex:creationYear "1995-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Lena Pillars" .
+
+<http://www.wikidata.org/entity/Q278512> a ex:Monument ;
+    ex:continent "South America" ;
+    ex:country "Brazil" ;
+    ex:name "Cerrado" .
+
+<http://www.wikidata.org/entity/Q278908> a ex:Monument ;
+    ex:architecturalStyle "baroque architecture" ;
+    ex:continent "Europe" ;
+    ex:country "Germany" ;
+    ex:creationYear "1744-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:hasArchitect "Joseph Saint-Pierre" ;
+    ex:name "Margravial Opera House" .
+
+<http://www.wikidata.org/entity/Q279968> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Germany" ;
+    ex:name "Roman Monuments, Cathedral of St. Peter and Church of Our Lady in Trier UNESCO World Heritage Site" .
+
+<http://www.wikidata.org/entity/Q284444> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "France" ;
+    ex:creationYear "1177-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:hasArchitect "Jean de Tensanges" ;
+    ex:name "pont Saint-Bénézet" .
+
+<http://www.wikidata.org/entity/Q289466> a ex:Monument ;
+    ex:continent "North America" ;
+    ex:country "Canada" ;
+    ex:creationYear "1955-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Dinosaur Provincial Park" .
+
+<http://www.wikidata.org/entity/Q301684> a ex:Monument ;
+    ex:architecturalStyle "Neoclassical architecture" ;
+    ex:continent "Europe" ;
+    ex:country "Germany" ;
+    ex:hasArchitect "Karl Friedrich Schinkel" ;
+    ex:name "Glienicke Palace" .
+
+<http://www.wikidata.org/entity/Q301815> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Bulgaria" ;
+    ex:name "Thracian Tomb of Kazanlak" .
+
+<http://www.wikidata.org/entity/Q305044> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Bangladesh" ;
+    ex:name "Somapura Mahavihara" .
+
+<http://www.wikidata.org/entity/Q305169> a ex:Monument ;
+    ex:continent "South America" ;
+    ex:country "Colombia" ;
+    ex:creationYear "1974-08-06T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Los Katíos National Park" .
+
+<http://www.wikidata.org/entity/Q308805> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "People's Republic of China" ;
+    ex:name "Yungang Grottoes" .
+
+<http://www.wikidata.org/entity/Q308807> a ex:Monument ;
+    ex:continent "Africa" ;
+    ex:country "Libya" ;
+    ex:name "Tadrart Acacus" .
+
+<http://www.wikidata.org/entity/Q308893> a ex:Monument ;
+    ex:continent "Africa" ;
+    ex:country "Democratic Republic of the Congo" ;
+    ex:creationYear "1938-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Garamba National Park" .
+
+<http://www.wikidata.org/entity/Q309426> a ex:Monument ;
+    ex:continent "Africa" ;
+    ex:country "Uganda" ;
+    ex:name "Kasubi Tombs" .
+
+<http://www.wikidata.org/entity/Q309436> a ex:Monument ;
+    ex:continent "Africa" ;
+    ex:country "Morocco" ;
+    ex:name "Aït Benhaddou" .
+
+<http://www.wikidata.org/entity/Q310719> a ex:Monument ;
+    ex:continent "Africa" ;
+    ex:country "South Africa" ;
+    ex:creationYear "2000-11-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "iSimangaliso Wetland Park" .
+
+<http://www.wikidata.org/entity/Q311341> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Saudi Arabia" ;
+    ex:name "Al-Ahsa Oasis" .
+
+<http://www.wikidata.org/entity/Q312118> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Switzerland" ;
+    ex:name "Glarus thrust" .
+
+<http://www.wikidata.org/entity/Q314730> a ex:Monument ;
+    ex:architecturalStyle "Art Nouveau architecture" ;
+    ex:continent "Europe" ;
+    ex:country "Germany" ;
+    ex:creationYear "1901-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Artists' Colony in Darmstadt" .
+
+<http://www.wikidata.org/entity/Q315105> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Germany" ;
+    ex:creationYear "1833-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Babelsberg Park" .
+
+<http://www.wikidata.org/entity/Q318181> a ex:Monument ;
+    ex:architecturalStyle "prehistoric art" ;
+    ex:continent "Asia" ;
+    ex:country "Azerbaijan" ;
+    ex:creationYear "1966-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Gobustan National Park" .
+
+<http://www.wikidata.org/entity/Q318422> a ex:Monument ;
+    ex:continent "North America" ;
+    ex:country "Guatemala" ;
+    ex:name "Quiriguá" .
+
+<http://www.wikidata.org/entity/Q319296> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Bulgaria" ;
+    ex:creationYear "0710-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Madara Rider" ;
+    ex:type "bas-relief",
+        "monumental sculpture",
+        "public art" .
+
+<http://www.wikidata.org/entity/Q319366> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Sri Lanka" ;
+    ex:name "Galle" .
+
+<http://www.wikidata.org/entity/Q319821> a ex:Monument ;
+    ex:continent "North America" ;
+    ex:country "United States" ;
+    ex:name "Liberty Island" .
+
+<http://www.wikidata.org/entity/Q324638> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Japan" ;
+    ex:name "Sacred Island of Okinoshima and Associated Sites in the Munakata Region" .
+
+<http://www.wikidata.org/entity/Q328488> a ex:Monument ;
+    ex:continent "Africa" ;
+    ex:country "Democratic Republic of the Congo" ;
+    ex:creationYear "1970-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Salonga National Park" .
+
+<http://www.wikidata.org/entity/Q328577> a ex:Monument ;
+    ex:continent "Africa" ;
+    ex:country "Ivory Coast" ;
+    ex:creationYear "1972-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Taï National Park" .
+
+<http://www.wikidata.org/entity/Q330095> a ex:Monument ;
+    ex:continent "Africa" ;
+    ex:country "South Africa" ;
+    ex:name "Vredefort crater" .
+
+<http://www.wikidata.org/entity/Q331099> a ex:Monument ;
+    ex:continent "Africa" ;
+    ex:country "Mozambique" ;
+    ex:name "Island of Mozambique" .
+
+<http://www.wikidata.org/entity/Q331603> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "India" ;
+    ex:name "Bhimbetka rock shelters" .
+
+<http://www.wikidata.org/entity/Q332800> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Andorra" ;
+    ex:name "Madriu-Perafita-Claror Valley" .
+
+<http://www.wikidata.org/entity/Q333661> a ex:Monument ;
+    ex:continent "North America" ;
+    ex:country "United States" ;
+    ex:creationYear "1050-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Cahokia" .
+
+<http://www.wikidata.org/entity/Q339489> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Ireland" ;
+    ex:creationYear "-3499-01-01T00:00:00Z" ;
+    ex:name "Brú na Bóinne" .
+
+<http://www.wikidata.org/entity/Q367395> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Hungary" ;
+    ex:creationYear "1876-08-20T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Q367395" .
+
+<http://www.wikidata.org/entity/Q370956> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Italy" ;
+    ex:name "City of Vicenza and the Palladian Villas of the Veneto" .
+
+<http://www.wikidata.org/entity/Q372093> a ex:Monument ;
+    ex:continent "North America" ;
+    ex:country "United States" ;
+    ex:creationYear "1938-06-29T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Olympic National Park" .
+
+<http://www.wikidata.org/entity/Q374096> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "France" ;
+    ex:name "Chauvet Cave" .
+
+<http://www.wikidata.org/entity/Q375634> a ex:Monument ;
+    ex:continent "Asia" ;
+    ex:country "Sri Lanka" ;
+    ex:creationYear "1978-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Sinharaja Forest Reserve" .
+
+<http://www.wikidata.org/entity/Q379080> a ex:Monument ;
+    ex:continent "Africa" ;
+    ex:country "Kenya" ;
+    ex:creationYear "1593-04-11T00:00:00+00:00"^^xsd:dateTime ;
+    ex:hasArchitect "Giovanni Battista Cairati" ;
+    ex:name "Fort Jesus Museum" .
+
+<http://www.wikidata.org/entity/Q379652> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Greece" ;
+    ex:name "Philippi" .
+
+<http://www.wikidata.org/entity/Q379759> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "United Kingdom" ;
+    ex:name "Henderson Island" .
+
+<http://www.wikidata.org/entity/Q384813> a ex:Monument ;
+    ex:architecturalStyle "Ionic order",
+        "amphiprostyle",
+        "tetrastyle" ;
+    ex:continent "Europe" ;
+    ex:country "Greece" ;
+    ex:creationYear "-0425-01-01T00:00:00Z" ;
+    ex:hasArchitect "Callicrates" ;
+    ex:name "Temple of Athena Nike" .
+
+<http://www.wikidata.org/entity/Q385086> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Cyprus" ;
+    ex:creationYear "-7000-01-01T00:00:00Z" ;
+    ex:name "Khirokitia" .
+
+<http://www.wikidata.org/entity/Q387687> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "Romania" ;
+    ex:name "churches of Moldavia" .
+
+<http://www.wikidata.org/entity/Q389269> a ex:Monument ;
+    ex:continent "Europe" ;
+    ex:country "France" ;
+    ex:name "Cité de Carcassonne" .
+
+<http://www.wikidata.org/entity/Q390028> a ex:Monument ;
+    ex:architecturalStyle "Georgian architecture" ;
+    ex:continent "North America" ;
+    ex:country "United States" ;
+    ex:creationYear "1753-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:hasArchitect "Andrew Hamilton",
+        "Edmund Woolley",
+        "Robert Mills",
+        "William Strickland" ;
+    ex:name "Independence Hall" .
+
+<http://www.wikidata.org/entity/Q390264> a ex:Monument ;
+    ex:continent "South America" ;
+    ex:country "Peru" ;
+    ex:creationYear "1973-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Manu National Park" .
+
+<http://www.wikidata.org/entity/Q391215> a ex:Monument ;
+    ex:continent "Africa" ;
+    ex:country "Morocco" ;
+    ex:creationYear "-0399-01-01T00:00:00Z" ;
+    ex:name "Volubilis" .
+
+<http://www.wikidata.org/entity/Q391229> a ex:Monument ;
+    ex:architecturalStyle "Gothic architecture",
+        "Romanesque architecture" ;
+    ex:continent "Europe" ;
+    ex:country "Belgium" ;
+    ex:creationYear "1101-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Tournai Cathedral" .
+
+<http://www.wikidata.org/entity/Q391338> a ex:Monument ;
+    ex:continent "North America" ;
+    ex:country "Canada" ;
+    ex:creationYear "1922-12-18T00:00:00+00:00"^^xsd:dateTime ;
+    ex:name "Wood Buffalo National Park" .
+
