@@ -1,0 +1,73 @@
+@prefix ns1: <http://example.org/monuments#> .
+
+<http://www.wikidata.org/entity/Q184534> ns1:architecturalStyle "Ottoman architecture" .
+
+<http://www.wikidata.org/entity/Q187635> ns1:architecturalStyle "Islamic architecture" .
+
+<http://www.wikidata.org/entity/Q188754> ns1:architecturalStyle "Japanese castle architecture" .
+
+<http://www.wikidata.org/entity/Q189648> ns1:architecturalStyle "Mughal architecture" .
+
+<http://www.wikidata.org/entity/Q191763> ns1:architecturalStyle "Shinden-zukuri" .
+
+<http://www.wikidata.org/entity/Q197094> ns1:architecturalStyle "Byzantine architecture" .
+
+<http://www.wikidata.org/entity/Q201428> ns1:architecturalStyle "Renaissance architecture" .
+
+<http://www.wikidata.org/entity/Q205367> ns1:architecturalStyle "French Renaissance architecture" .
+
+<http://www.wikidata.org/entity/Q205558> ns1:architecturalStyle "Gothic architecture",
+        "Renaissance architecture",
+        "Romanesque architecture" .
+
+<http://www.wikidata.org/entity/Q207985> ns1:architecturalStyle "classic gothic" .
+
+<http://www.wikidata.org/entity/Q208181> ns1:architecturalStyle "English Baroque" .
+
+<http://www.wikidata.org/entity/Q208559> ns1:architecturalStyle "Baroque art" .
+
+<http://www.wikidata.org/entity/Q209643> ns1:architecturalStyle "Belarusian Gothic",
+        "Gothic architecture",
+        "Renaissance architecture",
+        "baroque architecture" .
+
+<http://www.wikidata.org/entity/Q209705> ns1:architecturalStyle "Brick Gothic" .
+
+<http://www.wikidata.org/entity/Q210055> ns1:architecturalStyle "Ottoman architecture" .
+
+<http://www.wikidata.org/entity/Q210678> ns1:architecturalStyle "Romanesque architecture" .
+
+<http://www.wikidata.org/entity/Q213988> ns1:architecturalStyle "Nordic Classicism",
+        "functionalism" .
+
+<http://www.wikidata.org/entity/Q215429> ns1:architecturalStyle "Gothic Revival",
+        "Gothic architecture" .
+
+<http://www.wikidata.org/entity/Q242741> ns1:architecturalStyle "Ionic order",
+        "ancient Greek architecture" .
+
+<http://www.wikidata.org/entity/Q244952> ns1:architecturalStyle "Italian Gothic architecture",
+        "Renaissance architecture" .
+
+<http://www.wikidata.org/entity/Q245151> ns1:architecturalStyle "ancient Roman architecture" .
+
+<http://www.wikidata.org/entity/Q272781> ns1:architecturalStyle "Manueline",
+        "Renaissance architecture" .
+
+<http://www.wikidata.org/entity/Q278908> ns1:architecturalStyle "baroque architecture" .
+
+<http://www.wikidata.org/entity/Q301684> ns1:architecturalStyle "Neoclassical architecture" .
+
+<http://www.wikidata.org/entity/Q314730> ns1:architecturalStyle "Art Nouveau architecture" .
+
+<http://www.wikidata.org/entity/Q318181> ns1:architecturalStyle "prehistoric art" .
+
+<http://www.wikidata.org/entity/Q384813> ns1:architecturalStyle "Ionic order",
+        "amphiprostyle",
+        "tetrastyle" .
+
+<http://www.wikidata.org/entity/Q390028> ns1:architecturalStyle "Georgian architecture" .
+
+<http://www.wikidata.org/entity/Q391229> ns1:architecturalStyle "Gothic architecture",
+        "Romanesque architecture" .
+

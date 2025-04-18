@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/monuments#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q193325">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Turkmenistan</ns1:country>
+    <ns1:name>Merv</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q206219">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Vietnam</ns1:country>
+    <ns1:name>Imperial Citadel of Thang Long</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q192522">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Turkey</ns1:country>
+    <ns1:creationYear>-7499-01-01T00:00:00Z</ns1:creationYear>
+    <ns1:name>Çatalhöyük</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q207917">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Turkey</ns1:country>
+    <ns1:name>Mount Nemrut</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q192764">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>India</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1905-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Kaziranga National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q272680">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Syria</ns1:country>
+    <ns1:name>Bosra</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q318181">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>prehistoric art</ns1:architecturalStyle>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Azerbaijan</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1966-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Gobustan National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q324638">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Japan</ns1:country>
+    <ns1:name>Sacred Island of Okinoshima and Associated Sites in the Munakata Region</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q203197">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Sri Lanka</ns1:country>
+    <ns1:name>Kandy</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q184534">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Ottoman architecture</ns1:architecturalStyle>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Turkey</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1575-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:hasArchitect>Mimar Sinan</ns1:hasArchitect>
+    <ns1:name>Selimiye Mosque</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q190165">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Laos</ns1:country>
+    <ns1:name>Luang Prabang</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q184427">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>India</ns1:country>
+    <ns1:creationYear>-0200-01-01T00:00:00Z</ns1:creationYear>
+    <ns1:name>Ajanta Caves</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q197094">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Byzantine architecture</ns1:architecturalStyle>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Turkey</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1136-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Zeyrek Mosque</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q187635">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Islamic architecture</ns1:architecturalStyle>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>India</ns1:country>
+    <ns1:name>Qutb Minar</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q210610">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Iran</ns1:country>
+    <ns1:name>Golestan Palace</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q273834">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>People's Republic of China</ns1:country>
+    <ns1:name>Longmen Grottoes</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q200200">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Iraq</ns1:country>
+    <ns1:creationYear>-2499-01-01T00:00:00Z</ns1:creationYear>
+    <ns1:name>Assur</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q214944">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Turkey</ns1:country>
+    <ns1:creationYear>-9999-01-01T00:00:00Z</ns1:creationYear>
+    <ns1:name>Göbekli Tepe</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q186312">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Israel</ns1:country>
+    <ns1:name>Masada</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q188754">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Japanese castle architecture</ns1:architecturalStyle>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Japan</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1346-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Himeji Castle</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189616">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>India</ns1:country>
+    <ns1:name>Ellora Caves</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189648">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Mughal architecture</ns1:architecturalStyle>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>India</ns1:country>
+    <ns1:name>Humayun's Tomb</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q207692">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>People's Republic of China</ns1:country>
+    <ns1:name>Wuyi Mountains</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q190128">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Vietnam</ns1:country>
+    <ns1:name>Ha Long Bay</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q191763">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Shinden-zukuri</ns1:architecturalStyle>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Japan</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">0593-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Itsukushima Shrine</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q375634">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Sri Lanka</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1978-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Sinharaja Forest Reserve</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q277525">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>North Korea</ns1:country>
+    <ns1:name>Goguryeo tombs</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q308805">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>People's Republic of China</ns1:country>
+    <ns1:name>Yungang Grottoes</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q190060">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Vietnam</ns1:country>
+    <ns1:name>Citadel of the Hồ Dynasty</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q192518">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Yemen</ns1:country>
+    <ns1:name>Shibam</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q305044">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Bangladesh</ns1:country>
+    <ns1:name>Somapura Mahavihara</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q311341">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Saudi Arabia</ns1:country>
+    <ns1:name>Al-Ahsa Oasis</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q319366">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Sri Lanka</ns1:country>
+    <ns1:name>Galle</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q272153">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Sri Lanka</ns1:country>
+    <ns1:name>Sigiriya</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q206236">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>Iraq</ns1:country>
+    <ns1:name>Citadel of Erbil</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q331603">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Asia</ns1:continent>
+    <ns1:country>India</ns1:country>
+    <ns1:name>Bhimbetka rock shelters</ns1:name>
+  </rdf:Description>
+</rdf:RDF>

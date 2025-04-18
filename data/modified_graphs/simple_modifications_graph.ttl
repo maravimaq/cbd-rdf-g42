@@ -1,0 +1,33 @@
+@prefix ns1: <http://example.org/monuments#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.wikidata.org/entity/Q184534> a ns1:Monument ;
+    ns1:continent "Asia" ;
+    ns1:creationYear "1575-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Selimiye Mosque (Edirne)" .
+
+<http://www.wikidata.org/entity/Q188754> a ns1:Monument ;
+    ns1:continent "Asia" ;
+    ns1:creationYear "1346-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Himeji Fortress" .
+
+<http://www.wikidata.org/entity/Q192764> a ns1:Monument ;
+    ns1:continent "Asia" ;
+    ns1:creationYear "1906-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Kaziranga National Park" .
+
+<http://www.wikidata.org/entity/Q197094> a ns1:Monument ;
+    ns1:continent "Asia" ;
+    ns1:name "Zeyrek Mosque" .
+
+<http://www.wikidata.org/entity/Q318181> a ns1:Monument ;
+    ns1:continent "Asia" ;
+    ns1:creationYear "1966-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Gobustan National Park" ;
+    ns1:type "Rock Art Site" .
+
+<http://www.wikidata.org/entity/Q375634> a ns1:Monument ;
+    ns1:continent "Asia" ;
+    ns1:creationYear "1978-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Sinharaja Grand Forest Reserve" .
+

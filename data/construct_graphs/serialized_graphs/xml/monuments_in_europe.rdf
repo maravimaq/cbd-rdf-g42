@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/monuments#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q207193">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Ireland</ns1:country>
+    <ns1:name>Skellig Michael</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q272781">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Manueline</ns1:architecturalStyle>
+    <ns1:architecturalStyle>Renaissance architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Portugal</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1502-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:hasArchitect>Diego de Torralva</ns1:hasArchitect>
+    <ns1:hasArchitect>Diogo de Boitaca</ns1:hasArchitect>
+    <ns1:hasArchitect>Nicolau Chanterene</ns1:hasArchitect>
+    <ns1:name>Jerónimos Monastery</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q277576">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Russia</ns1:country>
+    <ns1:name>Putorana Plateau</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q245151">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>ancient Roman architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Spain</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">0100-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Tower of Hercules</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q213988">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Nordic Classicism</ns1:architecturalStyle>
+    <ns1:architecturalStyle>functionalism</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Sweden</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1915-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1920-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:hasArchitect>Gunnar Asplund</ns1:hasArchitect>
+    <ns1:name>Skogskyrkogården</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q367395">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Hungary</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1876-08-20T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Q367395</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q210055">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Ottoman architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Bosnia and Herzegovina</ns1:country>
+    <ns1:hasArchitect>Mimar Sinan</ns1:hasArchitect>
+    <ns1:name>Mehmed Paša Sokolović Bridge</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q242741">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Ionic order</ns1:architecturalStyle>
+    <ns1:architecturalStyle>ancient Greek architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Greece</ns1:country>
+    <ns1:creationYear>-0500-01-01T00:00:00Z</ns1:creationYear>
+    <ns1:hasArchitect>Mnesikles</ns1:hasArchitect>
+    <ns1:hasArchitect>Phidias</ns1:hasArchitect>
+    <ns1:name>Erechtheion</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q315105">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Germany</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1833-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Babelsberg Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q210957">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>United Kingdom</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">0142-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Antonine Wall</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q209643">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Belarusian Gothic</ns1:architecturalStyle>
+    <ns1:architecturalStyle>Gothic architecture</ns1:architecturalStyle>
+    <ns1:architecturalStyle>Renaissance architecture</ns1:architecturalStyle>
+    <ns1:architecturalStyle>baroque architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Belarus</ns1:country>
+    <ns1:name>Mir Castle Complex</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q184429">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Romania</ns1:country>
+    <ns1:country>Ukraine</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1991-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Danube Delta</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q253241">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Italy</ns1:country>
+    <ns1:name>Su Nuraxi di Barumini</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q207985">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>classic gothic</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>France</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1195-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Bourges Cathedral</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q192243">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Belarus</ns1:country>
+    <ns1:country>Estonia</ns1:country>
+    <ns1:country>Finland</ns1:country>
+    <ns1:country>Latvia</ns1:country>
+    <ns1:country>Lithuania</ns1:country>
+    <ns1:country>Moldova</ns1:country>
+    <ns1:country>Norway</ns1:country>
+    <ns1:country>Russia</ns1:country>
+    <ns1:country>Sweden</ns1:country>
+    <ns1:country>Ukraine</ns1:country>
+    <ns1:name>Struve Geodetic Arc</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q201428">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Renaissance architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>France</ns1:country>
+    <ns1:name>Palace of Fontainebleau</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q211962">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Russia</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1337-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Trinity Lavra of St. Sergius</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q188694">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Albania</ns1:country>
+    <ns1:name>Butrint</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q205558">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Gothic architecture</ns1:architecturalStyle>
+    <ns1:architecturalStyle>Renaissance architecture</ns1:architecturalStyle>
+    <ns1:architecturalStyle>Romanesque architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Slovakia</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1200-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Spiš Castle</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189417">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Italy</ns1:country>
+    <ns1:creationYear>-0311-01-01T00:00:00Z</ns1:creationYear>
+    <ns1:name>Appian Way</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q192666">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Belarus</ns1:country>
+    <ns1:country>Poland</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1932-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Białowieża Forest</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q208633">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Italy</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1335-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:hasArchitect>Neri di Fioravante</ns1:hasArchitect>
+    <ns1:name>Ponte Vecchio</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q270725">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Russia</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1524-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Novodevichy Convent</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q278908">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>baroque architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Germany</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1744-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:hasArchitect>Joseph Saint-Pierre</ns1:hasArchitect>
+    <ns1:name>Margravial Opera House</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q379759">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>United Kingdom</ns1:country>
+    <ns1:name>Henderson Island</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q319296">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Bulgaria</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">0710-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Madara Rider</ns1:name>
+    <ns1:type>bas-relief</ns1:type>
+    <ns1:type>monumental sculpture</ns1:type>
+    <ns1:type>public art</ns1:type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q385086">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Cyprus</ns1:country>
+    <ns1:creationYear>-7000-01-01T00:00:00Z</ns1:creationYear>
+    <ns1:name>Khirokitia</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q186536">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>France</ns1:country>
+    <ns1:name>Fort Douaumont</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q205711">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Russia</ns1:country>
+    <ns1:name>Solovetsky Islands</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q301684">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Neoclassical architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Germany</ns1:country>
+    <ns1:hasArchitect>Karl Friedrich Schinkel</ns1:hasArchitect>
+    <ns1:name>Glienicke Palace</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q205367">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>French Renaissance architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>France</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1520-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1545-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:hasArchitect>Jacques Sourdeau</ns1:hasArchitect>
+    <ns1:hasArchitect>Pierre Nepveu</ns1:hasArchitect>
+    <ns1:name>Château de Chambord</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q244952">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Italian Gothic architecture</ns1:architecturalStyle>
+    <ns1:architecturalStyle>Renaissance architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Italy</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1401-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:hasArchitect>Donato Bramante</ns1:hasArchitect>
+    <ns1:hasArchitect>Guiniforte Solari</ns1:hasArchitect>
+    <ns1:hasArchitect>Piero Portaluppi</ns1:hasArchitect>
+    <ns1:name>Santa Maria delle Grazie Church</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q384813">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Ionic order</ns1:architecturalStyle>
+    <ns1:architecturalStyle>amphiprostyle</ns1:architecturalStyle>
+    <ns1:architecturalStyle>tetrastyle</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Greece</ns1:country>
+    <ns1:creationYear>-0425-01-01T00:00:00Z</ns1:creationYear>
+    <ns1:hasArchitect>Callicrates</ns1:hasArchitect>
+    <ns1:name>Temple of Athena Nike</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q202494">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>France</ns1:country>
+    <ns1:name>Canal du Midi</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189764">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>France</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">0050-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Pont du Gard</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q284444">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>France</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1177-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:hasArchitect>Jean de Tensanges</ns1:hasArchitect>
+    <ns1:name>pont Saint-Bénézet</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q374096">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>France</ns1:country>
+    <ns1:name>Chauvet Cave</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q193241">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Bulgaria</ns1:country>
+    <ns1:name>Nesebar</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q209705">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Brick Gothic</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Denmark</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1201-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:hasArchitect>Absalon</ns1:hasArchitect>
+    <ns1:name>Roskilde Cathedral</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189849">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Croatia</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1949-04-08T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Plitvice Lakes National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q215315">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Lithuania</ns1:country>
+    <ns1:name>Kernavė</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189358">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Denmark</ns1:country>
+    <ns1:name>Kronborg Castle</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q212214">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Italy</ns1:country>
+    <ns1:name>Amalfi Coast</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q379652">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Greece</ns1:country>
+    <ns1:name>Philippi</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q208181">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>English Baroque</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>United Kingdom</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1705-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Blenheim Palace</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q259313">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Austria</ns1:country>
+    <ns1:name>Semmering railway</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q387687">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Romania</ns1:country>
+    <ns1:name>churches of Moldavia</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q389269">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>France</ns1:country>
+    <ns1:name>Cité de Carcassonne</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q277683">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Russia</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1995-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Lena Pillars</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q211778">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>United Kingdom</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1951-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Lake District</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q301815">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Bulgaria</ns1:country>
+    <ns1:name>Thracian Tomb of Kazanlak</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q391229">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Gothic architecture</ns1:architecturalStyle>
+    <ns1:architecturalStyle>Romanesque architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Belgium</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1101-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Tournai Cathedral</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q312118">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Switzerland</ns1:country>
+    <ns1:name>Glarus thrust</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q192201">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Austria</ns1:country>
+    <ns1:name>Wachau</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q188617">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>United Kingdom</ns1:country>
+    <ns1:name>Kew Gardens</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q272777">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Italy</ns1:country>
+    <ns1:name>Hadrian's Villa</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q314730">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Art Nouveau architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Germany</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1901-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Artists' Colony in Darmstadt</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q215429">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Gothic Revival</ns1:architecturalStyle>
+    <ns1:architecturalStyle>Gothic architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Belgium</ns1:country>
+    <ns1:name>Grand-Place</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q332800">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Andorra</ns1:country>
+    <ns1:name>Madriu-Perafita-Claror Valley</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q276553">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Bulgaria</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">0980-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Boyana Church</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q279968">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Germany</ns1:country>
+    <ns1:name>Roman Monuments, Cathedral of St. Peter and Church of Our Lady in Trier UNESCO World Heritage Site</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q205832">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Greece</ns1:country>
+    <ns1:name>Corfu</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q199234">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>France</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1615-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Cordouan Lighthouse</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q265453">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Belgium</ns1:country>
+    <ns1:name>Béguinages in Flanders</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q208559">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Baroque art</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Sweden</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1699-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:hasArchitect>Nicodemus Tessin the Elder</ns1:hasArchitect>
+    <ns1:name>Drottningholm Palace</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q211252">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Spain</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1000-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Madinat Al-Zahra</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q370956">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Italy</ns1:country>
+    <ns1:name>City of Vicenza and the Palladian Villas of the Veneto</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q339489">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Ireland</ns1:country>
+    <ns1:creationYear>-3499-01-01T00:00:00Z</ns1:creationYear>
+    <ns1:name>Brú na Bóinne</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q210678">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Romanesque architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Norway</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1101-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Urnes Stave Church</ns1:name>
+  </rdf:Description>
+</rdf:RDF>

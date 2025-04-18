@@ -1,0 +1,43 @@
+@prefix ns1: <http://example.org/monuments#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.wikidata.org/entity/Q189934> a ns1:Monument ;
+    ns1:continent "North America",
+        "South America" ;
+    ns1:country "Suriname" ;
+    ns1:name "Central Suriname Nature Reserve" .
+
+<http://www.wikidata.org/entity/Q213237> a ns1:Monument ;
+    ns1:continent "South America" ;
+    ns1:country "Argentina" ;
+    ns1:name "Valdes Peninsula" .
+
+<http://www.wikidata.org/entity/Q267394> a ns1:Monument ;
+    ns1:continent "South America" ;
+    ns1:country "Brazil" ;
+    ns1:creationYear "1979-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Serra da Capivara National Park" .
+
+<http://www.wikidata.org/entity/Q277540> a ns1:Monument ;
+    ns1:continent "South America" ;
+    ns1:country "Peru" ;
+    ns1:creationYear "0850-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Chan Chan" .
+
+<http://www.wikidata.org/entity/Q278512> a ns1:Monument ;
+    ns1:continent "South America" ;
+    ns1:country "Brazil" ;
+    ns1:name "Cerrado" .
+
+<http://www.wikidata.org/entity/Q305169> a ns1:Monument ;
+    ns1:continent "South America" ;
+    ns1:country "Colombia" ;
+    ns1:creationYear "1974-08-06T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Los Katíos National Park" .
+
+<http://www.wikidata.org/entity/Q390264> a ns1:Monument ;
+    ns1:continent "South America" ;
+    ns1:country "Peru" ;
+    ns1:creationYear "1973-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Manu National Park" .
+

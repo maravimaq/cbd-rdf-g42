@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/monuments#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q289466">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>North America</ns1:continent>
+    <ns1:country>Canada</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1955-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Dinosaur Provincial Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q214827">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>North America</ns1:continent>
+    <ns1:country>Honduras</ns1:country>
+    <ns1:name>Copán</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189113">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>North America</ns1:continent>
+    <ns1:country>Canada</ns1:country>
+    <ns1:name>L'Anse aux Meadows</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q205952">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>North America</ns1:continent>
+    <ns1:country>United States</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1916-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Hawaiʻi Volcanoes National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q252814">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>North America</ns1:continent>
+    <ns1:country>United States</ns1:country>
+    <ns1:name>Taos Pueblo</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q318422">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>North America</ns1:continent>
+    <ns1:country>Guatemala</ns1:country>
+    <ns1:name>Quiriguá</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q391338">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>North America</ns1:continent>
+    <ns1:country>Canada</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1922-12-18T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Wood Buffalo National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q206194">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>North America</ns1:continent>
+    <ns1:country>Haiti</ns1:country>
+    <ns1:name>Citadelle Laferrière</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q319821">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>North America</ns1:continent>
+    <ns1:country>United States</ns1:country>
+    <ns1:name>Liberty Island</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q274131">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>North America</ns1:continent>
+    <ns1:country>United States</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1947-12-06T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Everglades National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189934">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>North America</ns1:continent>
+    <ns1:continent>South America</ns1:continent>
+    <ns1:country>Suriname</ns1:country>
+    <ns1:name>Central Suriname Nature Reserve</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q390028">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Georgian architecture</ns1:architecturalStyle>
+    <ns1:continent>North America</ns1:continent>
+    <ns1:country>United States</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1753-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:hasArchitect>Andrew Hamilton</ns1:hasArchitect>
+    <ns1:hasArchitect>Edmund Woolley</ns1:hasArchitect>
+    <ns1:hasArchitect>Robert Mills</ns1:hasArchitect>
+    <ns1:hasArchitect>William Strickland</ns1:hasArchitect>
+    <ns1:name>Independence Hall</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q257598">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>North America</ns1:continent>
+    <ns1:country>Canada</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2005-10-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Gros Morne National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q200521">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>North America</ns1:continent>
+    <ns1:country>Saint Kitts and Nevis</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1987-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Brimstone Hill Fortress National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q333661">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>North America</ns1:continent>
+    <ns1:country>United States</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1050-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Cahokia</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q272771">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>North America</ns1:continent>
+    <ns1:country>Mexico</ns1:country>
+    <ns1:name>Calakmul</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q372093">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>North America</ns1:continent>
+    <ns1:country>United States</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1938-06-29T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Olympic National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q273195">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>North America</ns1:continent>
+    <ns1:country>United States</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1930-05-14T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Carlsbad Caverns National Park</ns1:name>
+  </rdf:Description>
+</rdf:RDF>

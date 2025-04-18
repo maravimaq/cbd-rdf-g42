@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/monuments#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q390264">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>South America</ns1:continent>
+    <ns1:country>Peru</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1973-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Manu National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q267394">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>South America</ns1:continent>
+    <ns1:country>Brazil</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1979-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Serra da Capivara National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q213237">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>South America</ns1:continent>
+    <ns1:country>Argentina</ns1:country>
+    <ns1:name>Valdes Peninsula</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q305169">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>South America</ns1:continent>
+    <ns1:country>Colombia</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1974-08-06T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Los Katíos National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q277540">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>South America</ns1:continent>
+    <ns1:country>Peru</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">0850-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Chan Chan</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189934">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>North America</ns1:continent>
+    <ns1:continent>South America</ns1:continent>
+    <ns1:country>Suriname</ns1:country>
+    <ns1:name>Central Suriname Nature Reserve</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q278512">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>South America</ns1:continent>
+    <ns1:country>Brazil</ns1:country>
+    <ns1:name>Cerrado</ns1:name>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,1941 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q319296",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Bulgaria"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "0710-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Madara Rider"
+      }
+    ],
+    "http://example.org/monuments#type": [
+      {
+        "@value": "bas-relief"
+      },
+      {
+        "@value": "monumental sculpture"
+      },
+      {
+        "@value": "public art"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q387687",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Romania"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "churches of Moldavia"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q189417",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Italy"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@value": "-0311-01-01T00:00:00Z"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Appian Way"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q385086",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Cyprus"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@value": "-7000-01-01T00:00:00Z"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Khirokitia"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q301684",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Neoclassical architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Germany"
+      }
+    ],
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Karl Friedrich Schinkel"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Glienicke Palace"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q384813",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Ionic order"
+      },
+      {
+        "@value": "amphiprostyle"
+      },
+      {
+        "@value": "tetrastyle"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Greece"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@value": "-0425-01-01T00:00:00Z"
+      }
+    ],
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Callicrates"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Temple of Athena Nike"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q209705",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Brick Gothic"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Denmark"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1201-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Absalon"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Roskilde Cathedral"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q207985",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "classic gothic"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "France"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1195-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Bourges Cathedral"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q245151",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "ancient Roman architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Spain"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "0100-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Tower of Hercules"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q192201",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Austria"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Wachau"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q272777",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Italy"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Hadrian's Villa"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q332800",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Andorra"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Madriu-Perafita-Claror Valley"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q379652",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Greece"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Philippi"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q339489",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Ireland"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@value": "-3499-01-01T00:00:00Z"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Brú na Bóinne"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q202494",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "France"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Canal du Midi"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q199234",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "France"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1615-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Cordouan Lighthouse"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q270725",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Russia"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1524-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Novodevichy Convent"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q278908",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "baroque architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Germany"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1744-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Joseph Saint-Pierre"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Margravial Opera House"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q259313",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Austria"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Semmering railway"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q205711",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Russia"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Solovetsky Islands"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q192243",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Belarus"
+      },
+      {
+        "@value": "Estonia"
+      },
+      {
+        "@value": "Finland"
+      },
+      {
+        "@value": "Latvia"
+      },
+      {
+        "@value": "Lithuania"
+      },
+      {
+        "@value": "Moldova"
+      },
+      {
+        "@value": "Norway"
+      },
+      {
+        "@value": "Russia"
+      },
+      {
+        "@value": "Sweden"
+      },
+      {
+        "@value": "Ukraine"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Struve Geodetic Arc"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q210957",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "United Kingdom"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "0142-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Antonine Wall"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q193241",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Bulgaria"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Nesebar"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q301815",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Bulgaria"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Thracian Tomb of Kazanlak"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q242741",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Ionic order"
+      },
+      {
+        "@value": "ancient Greek architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Greece"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@value": "-0500-01-01T00:00:00Z"
+      }
+    ],
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Mnesikles"
+      },
+      {
+        "@value": "Phidias"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Erechtheion"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q209643",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Belarusian Gothic"
+      },
+      {
+        "@value": "Gothic architecture"
+      },
+      {
+        "@value": "Renaissance architecture"
+      },
+      {
+        "@value": "baroque architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Belarus"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Mir Castle Complex"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q272781",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Manueline"
+      },
+      {
+        "@value": "Renaissance architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Portugal"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1502-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Diego de Torralva"
+      },
+      {
+        "@value": "Diogo de Boitaca"
+      },
+      {
+        "@value": "Nicolau Chanterene"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Jerónimos Monastery"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q374096",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "France"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Chauvet Cave"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q189849",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Croatia"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1949-04-08T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Plitvice Lakes National Park"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q277576",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Russia"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Putorana Plateau"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q215315",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Lithuania"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Kernavė"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q391229",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Gothic architecture"
+      },
+      {
+        "@value": "Romanesque architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Belgium"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1101-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Tournai Cathedral"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q211962",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Russia"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1337-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Trinity Lavra of St. Sergius"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q244952",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Italian Gothic architecture"
+      },
+      {
+        "@value": "Renaissance architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Italy"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1401-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Donato Bramante"
+      },
+      {
+        "@value": "Guiniforte Solari"
+      },
+      {
+        "@value": "Piero Portaluppi"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Santa Maria delle Grazie Church"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q367395",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Hungary"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1876-08-20T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Q367395"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q284444",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "France"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1177-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Jean de Tensanges"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "pont Saint-Bénézet"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q184429",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Romania"
+      },
+      {
+        "@value": "Ukraine"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1991-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Danube Delta"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q215429",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Gothic Revival"
+      },
+      {
+        "@value": "Gothic architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Belgium"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Grand-Place"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q279968",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Germany"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Roman Monuments, Cathedral of St. Peter and Church of Our Lady in Trier UNESCO World Heritage Site"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q205832",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Greece"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Corfu"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q208559",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Baroque art"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Sweden"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1699-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Nicodemus Tessin the Elder"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Drottningholm Palace"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188617",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "United Kingdom"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Kew Gardens"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q192666",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Belarus"
+      },
+      {
+        "@value": "Poland"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1932-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Białowieża Forest"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q315105",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Germany"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1833-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Babelsberg Park"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q370956",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Italy"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "City of Vicenza and the Palladian Villas of the Veneto"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q253241",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Italy"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Su Nuraxi di Barumini"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q208633",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Italy"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1335-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Neri di Fioravante"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Ponte Vecchio"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q211252",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Spain"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1000-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Madinat Al-Zahra"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q265453",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Belgium"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Béguinages in Flanders"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q277683",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Russia"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1995-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Lena Pillars"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q389269",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "France"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Cité de Carcassonne"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q210678",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Romanesque architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Norway"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1101-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Urnes Stave Church"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q201428",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Renaissance architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "France"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Palace of Fontainebleau"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q312118",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Switzerland"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Glarus thrust"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q205367",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "French Renaissance architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "France"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1520-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1545-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Jacques Sourdeau"
+      },
+      {
+        "@value": "Pierre Nepveu"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Château de Chambord"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188694",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Albania"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Butrint"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q205558",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Gothic architecture"
+      },
+      {
+        "@value": "Renaissance architecture"
+      },
+      {
+        "@value": "Romanesque architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Slovakia"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1200-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Spiš Castle"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q213988",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Nordic Classicism"
+      },
+      {
+        "@value": "functionalism"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Sweden"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1915-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1920-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Gunnar Asplund"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Skogskyrkogården"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q189358",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Denmark"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Kronborg Castle"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q212214",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Italy"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Amalfi Coast"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q207193",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Ireland"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Skellig Michael"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q210055",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Ottoman architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Bosnia and Herzegovina"
+      }
+    ],
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Mimar Sinan"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Mehmed Paša Sokolović Bridge"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q186536",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "France"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Fort Douaumont"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q208181",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "English Baroque"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "United Kingdom"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1705-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Blenheim Palace"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q189764",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "France"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "0050-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Pont du Gard"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q211778",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "United Kingdom"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1951-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Lake District"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q314730",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Art Nouveau architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Germany"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1901-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Artists' Colony in Darmstadt"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q379759",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "United Kingdom"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Henderson Island"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q276553",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Bulgaria"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "0980-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Boyana Church"
+      }
+    ]
+  }
+]

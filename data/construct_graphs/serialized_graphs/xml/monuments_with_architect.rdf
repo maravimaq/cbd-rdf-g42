@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/monuments#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q244952">
+    <ns1:hasArchitect>Donato Bramante</ns1:hasArchitect>
+    <ns1:hasArchitect>Guiniforte Solari</ns1:hasArchitect>
+    <ns1:hasArchitect>Piero Portaluppi</ns1:hasArchitect>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q301684">
+    <ns1:hasArchitect>Karl Friedrich Schinkel</ns1:hasArchitect>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q390028">
+    <ns1:hasArchitect>Andrew Hamilton</ns1:hasArchitect>
+    <ns1:hasArchitect>Edmund Woolley</ns1:hasArchitect>
+    <ns1:hasArchitect>Robert Mills</ns1:hasArchitect>
+    <ns1:hasArchitect>William Strickland</ns1:hasArchitect>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q242741">
+    <ns1:hasArchitect>Mnesikles</ns1:hasArchitect>
+    <ns1:hasArchitect>Phidias</ns1:hasArchitect>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q284444">
+    <ns1:hasArchitect>Jean de Tensanges</ns1:hasArchitect>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q205367">
+    <ns1:hasArchitect>Jacques Sourdeau</ns1:hasArchitect>
+    <ns1:hasArchitect>Pierre Nepveu</ns1:hasArchitect>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q208633">
+    <ns1:hasArchitect>Neri di Fioravante</ns1:hasArchitect>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q278908">
+    <ns1:hasArchitect>Joseph Saint-Pierre</ns1:hasArchitect>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q272781">
+    <ns1:hasArchitect>Diego de Torralva</ns1:hasArchitect>
+    <ns1:hasArchitect>Diogo de Boitaca</ns1:hasArchitect>
+    <ns1:hasArchitect>Nicolau Chanterene</ns1:hasArchitect>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q210055">
+    <ns1:hasArchitect>Mimar Sinan</ns1:hasArchitect>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q379080">
+    <ns1:hasArchitect>Giovanni Battista Cairati</ns1:hasArchitect>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q384813">
+    <ns1:hasArchitect>Callicrates</ns1:hasArchitect>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q213988">
+    <ns1:hasArchitect>Gunnar Asplund</ns1:hasArchitect>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q209705">
+    <ns1:hasArchitect>Absalon</ns1:hasArchitect>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q208559">
+    <ns1:hasArchitect>Nicodemus Tessin the Elder</ns1:hasArchitect>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q184534">
+    <ns1:hasArchitect>Mimar Sinan</ns1:hasArchitect>
+  </rdf:Description>
+</rdf:RDF>

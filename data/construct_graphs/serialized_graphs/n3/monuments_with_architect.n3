@@ -1,0 +1,43 @@
+@prefix ns1: <http://example.org/monuments#> .
+
+<http://www.wikidata.org/entity/Q184534> ns1:hasArchitect "Mimar Sinan" .
+
+<http://www.wikidata.org/entity/Q205367> ns1:hasArchitect "Jacques Sourdeau",
+        "Pierre Nepveu" .
+
+<http://www.wikidata.org/entity/Q208559> ns1:hasArchitect "Nicodemus Tessin the Elder" .
+
+<http://www.wikidata.org/entity/Q208633> ns1:hasArchitect "Neri di Fioravante" .
+
+<http://www.wikidata.org/entity/Q209705> ns1:hasArchitect "Absalon" .
+
+<http://www.wikidata.org/entity/Q210055> ns1:hasArchitect "Mimar Sinan" .
+
+<http://www.wikidata.org/entity/Q213988> ns1:hasArchitect "Gunnar Asplund" .
+
+<http://www.wikidata.org/entity/Q242741> ns1:hasArchitect "Mnesikles",
+        "Phidias" .
+
+<http://www.wikidata.org/entity/Q244952> ns1:hasArchitect "Donato Bramante",
+        "Guiniforte Solari",
+        "Piero Portaluppi" .
+
+<http://www.wikidata.org/entity/Q272781> ns1:hasArchitect "Diego de Torralva",
+        "Diogo de Boitaca",
+        "Nicolau Chanterene" .
+
+<http://www.wikidata.org/entity/Q278908> ns1:hasArchitect "Joseph Saint-Pierre" .
+
+<http://www.wikidata.org/entity/Q284444> ns1:hasArchitect "Jean de Tensanges" .
+
+<http://www.wikidata.org/entity/Q301684> ns1:hasArchitect "Karl Friedrich Schinkel" .
+
+<http://www.wikidata.org/entity/Q379080> ns1:hasArchitect "Giovanni Battista Cairati" .
+
+<http://www.wikidata.org/entity/Q384813> ns1:hasArchitect "Callicrates" .
+
+<http://www.wikidata.org/entity/Q390028> ns1:hasArchitect "Andrew Hamilton",
+        "Edmund Woolley",
+        "Robert Mills",
+        "William Strickland" .
+

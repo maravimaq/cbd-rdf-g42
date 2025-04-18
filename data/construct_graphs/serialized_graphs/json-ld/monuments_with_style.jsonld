@@ -1,0 +1,273 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q189648",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Mughal architecture"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q187635",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Islamic architecture"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q301684",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Neoclassical architecture"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q209705",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Brick Gothic"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q384813",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Ionic order"
+      },
+      {
+        "@value": "amphiprostyle"
+      },
+      {
+        "@value": "tetrastyle"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q207985",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "classic gothic"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q245151",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "ancient Roman architecture"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q278908",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "baroque architecture"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q242741",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Ionic order"
+      },
+      {
+        "@value": "ancient Greek architecture"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q197094",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Byzantine architecture"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q209643",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Belarusian Gothic"
+      },
+      {
+        "@value": "Gothic architecture"
+      },
+      {
+        "@value": "Renaissance architecture"
+      },
+      {
+        "@value": "baroque architecture"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q272781",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Manueline"
+      },
+      {
+        "@value": "Renaissance architecture"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q391229",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Gothic architecture"
+      },
+      {
+        "@value": "Romanesque architecture"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q184534",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Ottoman architecture"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q215429",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Gothic Revival"
+      },
+      {
+        "@value": "Gothic architecture"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q244952",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Italian Gothic architecture"
+      },
+      {
+        "@value": "Renaissance architecture"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q191763",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Shinden-zukuri"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q208559",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Baroque art"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q210678",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Romanesque architecture"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q201428",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Renaissance architecture"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q390028",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Georgian architecture"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q205367",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "French Renaissance architecture"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q205558",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Gothic architecture"
+      },
+      {
+        "@value": "Renaissance architecture"
+      },
+      {
+        "@value": "Romanesque architecture"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q213988",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Nordic Classicism"
+      },
+      {
+        "@value": "functionalism"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q314730",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Art Nouveau architecture"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q210055",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Ottoman architecture"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q318181",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "prehistoric art"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q208181",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "English Baroque"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188754",
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Japanese castle architecture"
+      }
+    ]
+  }
+]

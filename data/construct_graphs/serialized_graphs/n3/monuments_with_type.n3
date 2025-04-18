@@ -1,0 +1,6 @@
+@prefix ns1: <http://example.org/monuments#> .
+
+<http://www.wikidata.org/entity/Q319296> ns1:type "bas-relief",
+        "monumental sculpture",
+        "public art" .
+

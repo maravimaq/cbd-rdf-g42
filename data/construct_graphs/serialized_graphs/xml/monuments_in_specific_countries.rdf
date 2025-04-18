@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/monuments#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q205367">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>French Renaissance architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>France</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1520-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1545-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:hasArchitect>Jacques Sourdeau</ns1:hasArchitect>
+    <ns1:hasArchitect>Pierre Nepveu</ns1:hasArchitect>
+    <ns1:name>Château de Chambord</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q244952">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Italian Gothic architecture</ns1:architecturalStyle>
+    <ns1:architecturalStyle>Renaissance architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Italy</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1401-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:hasArchitect>Donato Bramante</ns1:hasArchitect>
+    <ns1:hasArchitect>Guiniforte Solari</ns1:hasArchitect>
+    <ns1:hasArchitect>Piero Portaluppi</ns1:hasArchitect>
+    <ns1:name>Santa Maria delle Grazie Church</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q284444">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>France</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1177-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:hasArchitect>Jean de Tensanges</ns1:hasArchitect>
+    <ns1:name>pont Saint-Bénézet</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q389269">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>France</ns1:country>
+    <ns1:name>Cité de Carcassonne</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q245151">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>ancient Roman architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Spain</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">0100-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Tower of Hercules</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q201428">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Renaissance architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>France</ns1:country>
+    <ns1:name>Palace of Fontainebleau</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q253241">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Italy</ns1:country>
+    <ns1:name>Su Nuraxi di Barumini</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q272777">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Italy</ns1:country>
+    <ns1:name>Hadrian's Villa</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189764">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>France</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">0050-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Pont du Gard</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q207985">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>classic gothic</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>France</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1195-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Bourges Cathedral</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q212214">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Italy</ns1:country>
+    <ns1:name>Amalfi Coast</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q202494">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>France</ns1:country>
+    <ns1:name>Canal du Midi</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q199234">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>France</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1615-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Cordouan Lighthouse</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189417">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Italy</ns1:country>
+    <ns1:creationYear>-0311-01-01T00:00:00Z</ns1:creationYear>
+    <ns1:name>Appian Way</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q370956">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Italy</ns1:country>
+    <ns1:name>City of Vicenza and the Palladian Villas of the Veneto</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q374096">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>France</ns1:country>
+    <ns1:name>Chauvet Cave</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q208633">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Italy</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1335-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:hasArchitect>Neri di Fioravante</ns1:hasArchitect>
+    <ns1:name>Ponte Vecchio</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q186536">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>France</ns1:country>
+    <ns1:name>Fort Douaumont</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q211252">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Spain</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1000-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Madinat Al-Zahra</ns1:name>
+  </rdf:Description>
+</rdf:RDF>

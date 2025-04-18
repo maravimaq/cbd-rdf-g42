@@ -1,0 +1,33 @@
+<http://www.wikidata.org/entity/Q390264> <http://example.org/monuments#continent> "South America" .
+<http://www.wikidata.org/entity/Q267394> <http://example.org/monuments#name> "Serra da Capivara National Park" .
+<http://www.wikidata.org/entity/Q267394> <http://example.org/monuments#continent> "South America" .
+<http://www.wikidata.org/entity/Q213237> <http://example.org/monuments#country> "Argentina" .
+<http://www.wikidata.org/entity/Q305169> <http://example.org/monuments#continent> "South America" .
+<http://www.wikidata.org/entity/Q305169> <http://example.org/monuments#name> "Los Katíos National Park" .
+<http://www.wikidata.org/entity/Q277540> <http://example.org/monuments#country> "Peru" .
+<http://www.wikidata.org/entity/Q189934> <http://example.org/monuments#continent> "North America" .
+<http://www.wikidata.org/entity/Q390264> <http://example.org/monuments#name> "Manu National Park" .
+<http://www.wikidata.org/entity/Q278512> <http://example.org/monuments#name> "Cerrado" .
+<http://www.wikidata.org/entity/Q189934> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q213237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q277540> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q189934> <http://example.org/monuments#continent> "South America" .
+<http://www.wikidata.org/entity/Q267394> <http://example.org/monuments#creationYear> "1979-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q278512> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q305169> <http://example.org/monuments#creationYear> "1974-08-06T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q277540> <http://example.org/monuments#creationYear> "0850-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q213237> <http://example.org/monuments#name> "Valdes Peninsula" .
+<http://www.wikidata.org/entity/Q390264> <http://example.org/monuments#creationYear> "1973-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q277540> <http://example.org/monuments#continent> "South America" .
+<http://www.wikidata.org/entity/Q277540> <http://example.org/monuments#name> "Chan Chan" .
+<http://www.wikidata.org/entity/Q390264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q278512> <http://example.org/monuments#country> "Brazil" .
+<http://www.wikidata.org/entity/Q189934> <http://example.org/monuments#name> "Central Suriname Nature Reserve" .
+<http://www.wikidata.org/entity/Q390264> <http://example.org/monuments#country> "Peru" .
+<http://www.wikidata.org/entity/Q278512> <http://example.org/monuments#continent> "South America" .
+<http://www.wikidata.org/entity/Q213237> <http://example.org/monuments#continent> "South America" .
+<http://www.wikidata.org/entity/Q267394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q305169> <http://example.org/monuments#country> "Colombia" .
+<http://www.wikidata.org/entity/Q189934> <http://example.org/monuments#country> "Suriname" .
+<http://www.wikidata.org/entity/Q267394> <http://example.org/monuments#country> "Brazil" .
+<http://www.wikidata.org/entity/Q305169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .

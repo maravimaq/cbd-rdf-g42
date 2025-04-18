@@ -1,0 +1,16 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q319296",
+    "http://example.org/monuments#type": [
+      {
+        "@value": "bas-relief"
+      },
+      {
+        "@value": "monumental sculpture"
+      },
+      {
+        "@value": "public art"
+      }
+    ]
+  }
+]

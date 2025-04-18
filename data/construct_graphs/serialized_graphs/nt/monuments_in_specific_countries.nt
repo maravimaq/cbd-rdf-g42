@@ -1,0 +1,100 @@
+<http://www.wikidata.org/entity/Q205367> <http://example.org/monuments#architecturalStyle> "French Renaissance architecture" .
+<http://www.wikidata.org/entity/Q244952> <http://example.org/monuments#architecturalStyle> "Renaissance architecture" .
+<http://www.wikidata.org/entity/Q284444> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q389269> <http://example.org/monuments#country> "France" .
+<http://www.wikidata.org/entity/Q245151> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q201428> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q253241> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q244952> <http://example.org/monuments#hasArchitect> "Guiniforte Solari" .
+<http://www.wikidata.org/entity/Q244952> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q272777> <http://example.org/monuments#country> "Italy" .
+<http://www.wikidata.org/entity/Q245151> <http://example.org/monuments#creationYear> "0100-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q205367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q253241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q189764> <http://example.org/monuments#name> "Pont du Gard" .
+<http://www.wikidata.org/entity/Q207985> <http://example.org/monuments#architecturalStyle> "classic gothic" .
+<http://www.wikidata.org/entity/Q212214> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q244952> <http://example.org/monuments#architecturalStyle> "Italian Gothic architecture" .
+<http://www.wikidata.org/entity/Q189764> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q202494> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q201428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q199234> <http://example.org/monuments#name> "Cordouan Lighthouse" .
+<http://www.wikidata.org/entity/Q244952> <http://example.org/monuments#country> "Italy" .
+<http://www.wikidata.org/entity/Q244952> <http://example.org/monuments#hasArchitect> "Piero Portaluppi" .
+<http://www.wikidata.org/entity/Q189417> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q199234> <http://example.org/monuments#country> "France" .
+<http://www.wikidata.org/entity/Q189764> <http://example.org/monuments#country> "France" .
+<http://www.wikidata.org/entity/Q370956> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q374096> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q189417> <http://example.org/monuments#creationYear> "-0311-01-01T00:00:00Z" .
+<http://www.wikidata.org/entity/Q207985> <http://example.org/monuments#name> "Bourges Cathedral" .
+<http://www.wikidata.org/entity/Q284444> <http://example.org/monuments#hasArchitect> "Jean de Tensanges" .
+<http://www.wikidata.org/entity/Q208633> <http://example.org/monuments#name> "Ponte Vecchio" .
+<http://www.wikidata.org/entity/Q208633> <http://example.org/monuments#hasArchitect> "Neri di Fioravante" .
+<http://www.wikidata.org/entity/Q272777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q253241> <http://example.org/monuments#name> "Su Nuraxi di Barumini" .
+<http://www.wikidata.org/entity/Q370956> <http://example.org/monuments#name> "City of Vicenza and the Palladian Villas of the Veneto" .
+<http://www.wikidata.org/entity/Q207985> <http://example.org/monuments#country> "France" .
+<http://www.wikidata.org/entity/Q199234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q244952> <http://example.org/monuments#creationYear> "1401-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q207985> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q208633> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q189417> <http://example.org/monuments#country> "Italy" .
+<http://www.wikidata.org/entity/Q212214> <http://example.org/monuments#country> "Italy" .
+<http://www.wikidata.org/entity/Q186536> <http://example.org/monuments#country> "France" .
+<http://www.wikidata.org/entity/Q189417> <http://example.org/monuments#name> "Appian Way" .
+<http://www.wikidata.org/entity/Q208633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q370956> <http://example.org/monuments#country> "Italy" .
+<http://www.wikidata.org/entity/Q272777> <http://example.org/monuments#name> "Hadrian's Villa" .
+<http://www.wikidata.org/entity/Q245151> <http://example.org/monuments#country> "Spain" .
+<http://www.wikidata.org/entity/Q186536> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q205367> <http://example.org/monuments#creationYear> "1545-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q211252> <http://example.org/monuments#country> "Spain" .
+<http://www.wikidata.org/entity/Q205367> <http://example.org/monuments#hasArchitect> "Jacques Sourdeau" .
+<http://www.wikidata.org/entity/Q201428> <http://example.org/monuments#country> "France" .
+<http://www.wikidata.org/entity/Q244952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q202494> <http://example.org/monuments#country> "France" .
+<http://www.wikidata.org/entity/Q202494> <http://example.org/monuments#name> "Canal du Midi" .
+<http://www.wikidata.org/entity/Q205367> <http://example.org/monuments#country> "France" .
+<http://www.wikidata.org/entity/Q186536> <http://example.org/monuments#name> "Fort Douaumont" .
+<http://www.wikidata.org/entity/Q186536> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q189764> <http://example.org/monuments#creationYear> "0050-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q284444> <http://example.org/monuments#name> "pont Saint-Bénézet" .
+<http://www.wikidata.org/entity/Q205367> <http://example.org/monuments#creationYear> "1520-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q205367> <http://example.org/monuments#hasArchitect> "Pierre Nepveu" .
+<http://www.wikidata.org/entity/Q374096> <http://example.org/monuments#country> "France" .
+<http://www.wikidata.org/entity/Q284444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q207985> <http://example.org/monuments#creationYear> "1195-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q201428> <http://example.org/monuments#architecturalStyle> "Renaissance architecture" .
+<http://www.wikidata.org/entity/Q205367> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q189417> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q211252> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q205367> <http://example.org/monuments#name> "Château de Chambord" .
+<http://www.wikidata.org/entity/Q211252> <http://example.org/monuments#name> "Madinat Al-Zahra" .
+<http://www.wikidata.org/entity/Q208633> <http://example.org/monuments#country> "Italy" .
+<http://www.wikidata.org/entity/Q245151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q389269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q245151> <http://example.org/monuments#name> "Tower of Hercules" .
+<http://www.wikidata.org/entity/Q389269> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q202494> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q211252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q370956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q374096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q212214> <http://example.org/monuments#name> "Amalfi Coast" .
+<http://www.wikidata.org/entity/Q212214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q244952> <http://example.org/monuments#hasArchitect> "Donato Bramante" .
+<http://www.wikidata.org/entity/Q189764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q284444> <http://example.org/monuments#creationYear> "1177-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q389269> <http://example.org/monuments#name> "Cité de Carcassonne" .
+<http://www.wikidata.org/entity/Q272777> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q199234> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q244952> <http://example.org/monuments#name> "Santa Maria delle Grazie Church" .
+<http://www.wikidata.org/entity/Q199234> <http://example.org/monuments#creationYear> "1615-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q208633> <http://example.org/monuments#creationYear> "1335-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q253241> <http://example.org/monuments#country> "Italy" .
+<http://www.wikidata.org/entity/Q207985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q374096> <http://example.org/monuments#name> "Chauvet Cave" .
+<http://www.wikidata.org/entity/Q245151> <http://example.org/monuments#architecturalStyle> "ancient Roman architecture" .
+<http://www.wikidata.org/entity/Q201428> <http://example.org/monuments#name> "Palace of Fontainebleau" .
+<http://www.wikidata.org/entity/Q211252> <http://example.org/monuments#creationYear> "1000-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q284444> <http://example.org/monuments#country> "France" .

@@ -1,0 +1,110 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q189657",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Oceania"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Australia"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1979-04-05T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Kakadu National Park"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q251999",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Oceania"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Australia"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1958-01-23T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Uluṟu-Kata Tjuṯa National Park"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q202845",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Australian continent"
+      },
+      {
+        "@value": "Insular Oceania"
+      },
+      {
+        "@value": "Oceania"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "New Zealand"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1887-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Tongariro National Park"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q260465",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Oceania"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Australia"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Budj Bim"
+      }
+    ]
+  }
+]

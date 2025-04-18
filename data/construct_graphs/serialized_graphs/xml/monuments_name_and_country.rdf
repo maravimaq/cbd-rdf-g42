@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/monuments#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q263883">
+    <ns1:country>Republic of the Congo</ns1:country>
+    <ns1:name>Odzala National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q192522">
+    <ns1:country>Turkey</ns1:country>
+    <ns1:name>Çatalhöyük</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q277576">
+    <ns1:country>Russia</ns1:country>
+    <ns1:name>Putorana Plateau</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q192764">
+    <ns1:country>India</ns1:country>
+    <ns1:name>Kaziranga National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q367395">
+    <ns1:country>Hungary</ns1:country>
+    <ns1:name>Q367395</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q391338">
+    <ns1:country>Canada</ns1:country>
+    <ns1:name>Wood Buffalo National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q242741">
+    <ns1:country>Greece</ns1:country>
+    <ns1:name>Erechtheion</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q315105">
+    <ns1:country>Germany</ns1:country>
+    <ns1:name>Babelsberg Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q319821">
+    <ns1:country>United States</ns1:country>
+    <ns1:name>Liberty Island</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q184429">
+    <ns1:country>Romania</ns1:country>
+    <ns1:name>Danube Delta</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q330095">
+    <ns1:country>South Africa</ns1:country>
+    <ns1:name>Vredefort crater</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q202845">
+    <ns1:country>New Zealand</ns1:country>
+    <ns1:name>Tongariro National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q274131">
+    <ns1:country>United States</ns1:country>
+    <ns1:name>Everglades National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189616">
+    <ns1:country>India</ns1:country>
+    <ns1:name>Ellora Caves</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q318181">
+    <ns1:country>Azerbaijan</ns1:country>
+    <ns1:name>Gobustan National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q333661">
+    <ns1:country>United States</ns1:country>
+    <ns1:name>Cahokia</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q188694">
+    <ns1:country>Albania</ns1:country>
+    <ns1:name>Butrint</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q207692">
+    <ns1:country>People's Republic of China</ns1:country>
+    <ns1:name>Wuyi Mountains</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q253241">
+    <ns1:country>Italy</ns1:country>
+    <ns1:name>Su Nuraxi di Barumini</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q270725">
+    <ns1:country>Russia</ns1:country>
+    <ns1:name>Novodevichy Convent</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q273834">
+    <ns1:country>People's Republic of China</ns1:country>
+    <ns1:name>Longmen Grottoes</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q272771">
+    <ns1:country>Mexico</ns1:country>
+    <ns1:name>Calakmul</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q278908">
+    <ns1:country>Germany</ns1:country>
+    <ns1:name>Margravial Opera House</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q305169">
+    <ns1:country>Colombia</ns1:country>
+    <ns1:name>Los Katíos National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189417">
+    <ns1:country>Italy</ns1:country>
+    <ns1:name>Appian Way</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q214827">
+    <ns1:country>Honduras</ns1:country>
+    <ns1:name>Copán</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q186536">
+    <ns1:country>France</ns1:country>
+    <ns1:name>Fort Douaumont</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q205711">
+    <ns1:country>Russia</ns1:country>
+    <ns1:name>Solovetsky Islands</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q211962">
+    <ns1:country>Russia</ns1:country>
+    <ns1:name>Trinity Lavra of St. Sergius</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q245151">
+    <ns1:country>Spain</ns1:country>
+    <ns1:name>Tower of Hercules</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q190128">
+    <ns1:country>Vietnam</ns1:country>
+    <ns1:name>Ha Long Bay</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q328488">
+    <ns1:country>Democratic Republic of the Congo</ns1:country>
+    <ns1:name>Salonga National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q318422">
+    <ns1:country>Guatemala</ns1:country>
+    <ns1:name>Quiriguá</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q197094">
+    <ns1:country>Turkey</ns1:country>
+    <ns1:name>Zeyrek Mosque</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q273456">
+    <ns1:country>Ethiopia</ns1:country>
+    <ns1:name>Omo River</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q379080">
+    <ns1:country>Kenya</ns1:country>
+    <ns1:name>Fort Jesus Museum</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q390028">
+    <ns1:country>United States</ns1:country>
+    <ns1:name>Independence Hall</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q202494">
+    <ns1:country>France</ns1:country>
+    <ns1:name>Canal du Midi</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q284444">
+    <ns1:country>France</ns1:country>
+    <ns1:name>pont Saint-Bénézet</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q379759">
+    <ns1:country>United Kingdom</ns1:country>
+    <ns1:name>Henderson Island</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q251999">
+    <ns1:country>Australia</ns1:country>
+    <ns1:name>Uluṟu-Kata Tjuṯa National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q301684">
+    <ns1:country>Germany</ns1:country>
+    <ns1:name>Glienicke Palace</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q319296">
+    <ns1:country>Bulgaria</ns1:country>
+    <ns1:name>Madara Rider</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q374096">
+    <ns1:country>France</ns1:country>
+    <ns1:name>Chauvet Cave</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q186312">
+    <ns1:country>Israel</ns1:country>
+    <ns1:name>Masada</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q200200">
+    <ns1:country>Iraq</ns1:country>
+    <ns1:name>Assur</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q190048">
+    <ns1:country>Algeria</ns1:country>
+    <ns1:name>Tassili n'Ajjer</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q272781">
+    <ns1:country>Portugal</ns1:country>
+    <ns1:name>Jerónimos Monastery</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q244347">
+    <ns1:country>Senegal</ns1:country>
+    <ns1:name>Gorée</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q272768">
+    <ns1:country>Seychelles</ns1:country>
+    <ns1:name>Aldabra</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q193325">
+    <ns1:country>Turkmenistan</ns1:country>
+    <ns1:name>Merv</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189358">
+    <ns1:country>Denmark</ns1:country>
+    <ns1:name>Kronborg Castle</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q213237">
+    <ns1:country>Argentina</ns1:country>
+    <ns1:name>Valdes Peninsula</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q387687">
+    <ns1:country>Romania</ns1:country>
+    <ns1:name>churches of Moldavia</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q200521">
+    <ns1:country>Saint Kitts and Nevis</ns1:country>
+    <ns1:name>Brimstone Hill Fortress National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q259313">
+    <ns1:country>Austria</ns1:country>
+    <ns1:name>Semmering railway</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q389269">
+    <ns1:country>France</ns1:country>
+    <ns1:name>Cité de Carcassonne</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q277683">
+    <ns1:country>Russia</ns1:country>
+    <ns1:name>Lena Pillars</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q384813">
+    <ns1:country>Greece</ns1:country>
+    <ns1:name>Temple of Athena Nike</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q190165">
+    <ns1:country>Laos</ns1:country>
+    <ns1:name>Luang Prabang</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q213988">
+    <ns1:country>Sweden</ns1:country>
+    <ns1:name>Skogskyrkogården</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q301815">
+    <ns1:country>Bulgaria</ns1:country>
+    <ns1:name>Thracian Tomb of Kazanlak</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q209705">
+    <ns1:country>Denmark</ns1:country>
+    <ns1:name>Roskilde Cathedral</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q205952">
+    <ns1:country>United States</ns1:country>
+    <ns1:name>Hawaiʻi Volcanoes National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q214944">
+    <ns1:country>Turkey</ns1:country>
+    <ns1:name>Göbekli Tepe</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q309436">
+    <ns1:country>Morocco</ns1:country>
+    <ns1:name>Aït Benhaddou</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q272777">
+    <ns1:country>Italy</ns1:country>
+    <ns1:name>Hadrian's Villa</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q206194">
+    <ns1:country>Haiti</ns1:country>
+    <ns1:name>Citadelle Laferrière</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189849">
+    <ns1:country>Croatia</ns1:country>
+    <ns1:name>Plitvice Lakes National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q193241">
+    <ns1:country>Bulgaria</ns1:country>
+    <ns1:name>Nesebar</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189764">
+    <ns1:country>France</ns1:country>
+    <ns1:name>Pont du Gard</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q208181">
+    <ns1:country>United Kingdom</ns1:country>
+    <ns1:name>Blenheim Palace</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q385086">
+    <ns1:country>Cyprus</ns1:country>
+    <ns1:name>Khirokitia</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q192493">
+    <ns1:country>South Africa</ns1:country>
+    <ns1:name>Robben Island</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q332800">
+    <ns1:country>Andorra</ns1:country>
+    <ns1:name>Madriu-Perafita-Claror Valley</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q391215">
+    <ns1:country>Morocco</ns1:country>
+    <ns1:name>Volubilis</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q310719">
+    <ns1:country>South Africa</ns1:country>
+    <ns1:name>iSimangaliso Wetland Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q206236">
+    <ns1:country>Iraq</ns1:country>
+    <ns1:name>Citadel of Erbil</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q188617">
+    <ns1:country>United Kingdom</ns1:country>
+    <ns1:name>Kew Gardens</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q207985">
+    <ns1:country>France</ns1:country>
+    <ns1:name>Bourges Cathedral</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q272153">
+    <ns1:country>Sri Lanka</ns1:country>
+    <ns1:name>Sigiriya</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q305044">
+    <ns1:country>Bangladesh</ns1:country>
+    <ns1:name>Somapura Mahavihara</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q205832">
+    <ns1:country>Greece</ns1:country>
+    <ns1:name>Corfu</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q191763">
+    <ns1:country>Japan</ns1:country>
+    <ns1:name>Itsukushima Shrine</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q192201">
+    <ns1:country>Austria</ns1:country>
+    <ns1:name>Wachau</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q188754">
+    <ns1:country>Japan</ns1:country>
+    <ns1:name>Himeji Castle</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189934">
+    <ns1:country>Suriname</ns1:country>
+    <ns1:name>Central Suriname Nature Reserve</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q210957">
+    <ns1:country>United Kingdom</ns1:country>
+    <ns1:name>Antonine Wall</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q379652">
+    <ns1:country>Greece</ns1:country>
+    <ns1:name>Philippi</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q188938">
+    <ns1:country>Tunisia</ns1:country>
+    <ns1:name>Djerba</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q331603">
+    <ns1:country>India</ns1:country>
+    <ns1:name>Bhimbetka rock shelters</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q208559">
+    <ns1:country>Sweden</ns1:country>
+    <ns1:name>Drottningholm Palace</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q210610">
+    <ns1:country>Iran</ns1:country>
+    <ns1:name>Golestan Palace</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q252814">
+    <ns1:country>United States</ns1:country>
+    <ns1:name>Taos Pueblo</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q390264">
+    <ns1:country>Peru</ns1:country>
+    <ns1:name>Manu National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q203197">
+    <ns1:country>Sri Lanka</ns1:country>
+    <ns1:name>Kandy</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q211778">
+    <ns1:country>United Kingdom</ns1:country>
+    <ns1:name>Lake District</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q278512">
+    <ns1:country>Brazil</ns1:country>
+    <ns1:name>Cerrado</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q205367">
+    <ns1:country>France</ns1:country>
+    <ns1:name>Château de Chambord</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q319366">
+    <ns1:country>Sri Lanka</ns1:country>
+    <ns1:name>Galle</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q308805">
+    <ns1:country>People's Republic of China</ns1:country>
+    <ns1:name>Yungang Grottoes</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q214007">
+    <ns1:country>Botswana</ns1:country>
+    <ns1:name>Tsodilo</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q314730">
+    <ns1:country>Germany</ns1:country>
+    <ns1:name>Artists' Colony in Darmstadt</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189657">
+    <ns1:country>Australia</ns1:country>
+    <ns1:name>Kakadu National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q279968">
+    <ns1:country>Germany</ns1:country>
+    <ns1:name>Roman Monuments, Cathedral of St. Peter and Church of Our Lady in Trier UNESCO World Heritage Site</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q391229">
+    <ns1:country>Belgium</ns1:country>
+    <ns1:name>Tournai Cathedral</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q265453">
+    <ns1:country>Belgium</ns1:country>
+    <ns1:name>Béguinages in Flanders</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q289466">
+    <ns1:country>Canada</ns1:country>
+    <ns1:name>Dinosaur Provincial Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q192243">
+    <ns1:country>Belarus</ns1:country>
+    <ns1:name>Struve Geodetic Arc</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q267394">
+    <ns1:country>Brazil</ns1:country>
+    <ns1:name>Serra da Capivara National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189113">
+    <ns1:country>Canada</ns1:country>
+    <ns1:name>L'Anse aux Meadows</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q207917">
+    <ns1:country>Turkey</ns1:country>
+    <ns1:name>Mount Nemrut</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q308893">
+    <ns1:country>Democratic Republic of the Congo</ns1:country>
+    <ns1:name>Garamba National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q324638">
+    <ns1:country>Japan</ns1:country>
+    <ns1:name>Sacred Island of Okinoshima and Associated Sites in the Munakata Region</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q331099">
+    <ns1:country>Mozambique</ns1:country>
+    <ns1:name>Island of Mozambique</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q187635">
+    <ns1:country>India</ns1:country>
+    <ns1:name>Qutb Minar</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q244952">
+    <ns1:country>Italy</ns1:country>
+    <ns1:name>Santa Maria delle Grazie Church</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q184534">
+    <ns1:country>Turkey</ns1:country>
+    <ns1:name>Selimiye Mosque</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q199234">
+    <ns1:country>France</ns1:country>
+    <ns1:name>Cordouan Lighthouse</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q339489">
+    <ns1:country>Ireland</ns1:country>
+    <ns1:name>Brú na Bóinne</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189648">
+    <ns1:country>India</ns1:country>
+    <ns1:name>Humayun's Tomb</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q277540">
+    <ns1:country>Peru</ns1:country>
+    <ns1:name>Chan Chan</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q272680">
+    <ns1:country>Syria</ns1:country>
+    <ns1:name>Bosra</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q208633">
+    <ns1:country>Italy</ns1:country>
+    <ns1:name>Ponte Vecchio</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q206219">
+    <ns1:country>Vietnam</ns1:country>
+    <ns1:name>Imperial Citadel of Thang Long</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q312118">
+    <ns1:country>Switzerland</ns1:country>
+    <ns1:name>Glarus thrust</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q370956">
+    <ns1:country>Italy</ns1:country>
+    <ns1:name>City of Vicenza and the Palladian Villas of the Veneto</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q375634">
+    <ns1:country>Sri Lanka</ns1:country>
+    <ns1:name>Sinharaja Forest Reserve</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q212214">
+    <ns1:country>Italy</ns1:country>
+    <ns1:name>Amalfi Coast</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q277525">
+    <ns1:country>North Korea</ns1:country>
+    <ns1:name>Goguryeo tombs</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q308807">
+    <ns1:country>Libya</ns1:country>
+    <ns1:name>Tadrart Acacus</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q201428">
+    <ns1:country>France</ns1:country>
+    <ns1:name>Palace of Fontainebleau</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q273195">
+    <ns1:country>United States</ns1:country>
+    <ns1:name>Carlsbad Caverns National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q192518">
+    <ns1:country>Yemen</ns1:country>
+    <ns1:name>Shibam</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q372093">
+    <ns1:country>United States</ns1:country>
+    <ns1:name>Olympic National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q215315">
+    <ns1:country>Lithuania</ns1:country>
+    <ns1:name>Kernavė</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q215429">
+    <ns1:country>Belgium</ns1:country>
+    <ns1:name>Grand-Place</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q190060">
+    <ns1:country>Vietnam</ns1:country>
+    <ns1:name>Citadel of the Hồ Dynasty</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q184427">
+    <ns1:country>India</ns1:country>
+    <ns1:name>Ajanta Caves</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q260465">
+    <ns1:country>Australia</ns1:country>
+    <ns1:name>Budj Bim</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q192666">
+    <ns1:country>Belarus</ns1:country>
+    <ns1:name>Białowieża Forest</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q209217">
+    <ns1:country>Zimbabwe</ns1:country>
+    <ns1:name>Great Zimbabwe</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q210055">
+    <ns1:country>Bosnia and Herzegovina</ns1:country>
+    <ns1:name>Mehmed Paša Sokolović Bridge</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q328577">
+    <ns1:country>Ivory Coast</ns1:country>
+    <ns1:name>Taï National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q209643">
+    <ns1:country>Belarus</ns1:country>
+    <ns1:name>Mir Castle Complex</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q207193">
+    <ns1:country>Ireland</ns1:country>
+    <ns1:name>Skellig Michael</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q257598">
+    <ns1:country>Canada</ns1:country>
+    <ns1:name>Gros Morne National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q276553">
+    <ns1:country>Bulgaria</ns1:country>
+    <ns1:name>Boyana Church</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q311341">
+    <ns1:country>Saudi Arabia</ns1:country>
+    <ns1:name>Al-Ahsa Oasis</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q205558">
+    <ns1:country>Slovakia</ns1:country>
+    <ns1:name>Spiš Castle</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q309426">
+    <ns1:country>Uganda</ns1:country>
+    <ns1:name>Kasubi Tombs</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q210678">
+    <ns1:country>Norway</ns1:country>
+    <ns1:name>Urnes Stave Church</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q211252">
+    <ns1:country>Spain</ns1:country>
+    <ns1:name>Madinat Al-Zahra</ns1:name>
+  </rdf:Description>
+</rdf:RDF>

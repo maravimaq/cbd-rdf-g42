@@ -1,0 +1,21 @@
+<http://www.wikidata.org/entity/Q189657> <http://example.org/monuments#country> "Australia" .
+<http://www.wikidata.org/entity/Q189657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q189657> <http://example.org/monuments#creationYear> "1979-04-05T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q251999> <http://example.org/monuments#creationYear> "1958-01-23T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q189657> <http://example.org/monuments#name> "Kakadu National Park" .
+<http://www.wikidata.org/entity/Q251999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q189657> <http://example.org/monuments#continent> "Oceania" .
+<http://www.wikidata.org/entity/Q202845> <http://example.org/monuments#continent> "Insular Oceania" .
+<http://www.wikidata.org/entity/Q251999> <http://example.org/monuments#name> "Uluṟu-Kata Tjuṯa National Park" .
+<http://www.wikidata.org/entity/Q251999> <http://example.org/monuments#country> "Australia" .
+<http://www.wikidata.org/entity/Q260465> <http://example.org/monuments#country> "Australia" .
+<http://www.wikidata.org/entity/Q202845> <http://example.org/monuments#country> "New Zealand" .
+<http://www.wikidata.org/entity/Q202845> <http://example.org/monuments#name> "Tongariro National Park" .
+<http://www.wikidata.org/entity/Q202845> <http://example.org/monuments#continent> "Australian continent" .
+<http://www.wikidata.org/entity/Q202845> <http://example.org/monuments#continent> "Oceania" .
+<http://www.wikidata.org/entity/Q251999> <http://example.org/monuments#continent> "Oceania" .
+<http://www.wikidata.org/entity/Q260465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q260465> <http://example.org/monuments#continent> "Oceania" .
+<http://www.wikidata.org/entity/Q260465> <http://example.org/monuments#name> "Budj Bim" .
+<http://www.wikidata.org/entity/Q202845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q202845> <http://example.org/monuments#creationYear> "1887-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .

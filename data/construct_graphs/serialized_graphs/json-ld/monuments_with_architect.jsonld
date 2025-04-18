@@ -1,0 +1,157 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q208559",
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Nicodemus Tessin the Elder"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q278908",
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Joseph Saint-Pierre"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q213988",
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Gunnar Asplund"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q205367",
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Jacques Sourdeau"
+      },
+      {
+        "@value": "Pierre Nepveu"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q301684",
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Karl Friedrich Schinkel"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q208633",
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Neri di Fioravante"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q242741",
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Mnesikles"
+      },
+      {
+        "@value": "Phidias"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q379080",
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Giovanni Battista Cairati"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q210055",
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Mimar Sinan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q272781",
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Diego de Torralva"
+      },
+      {
+        "@value": "Diogo de Boitaca"
+      },
+      {
+        "@value": "Nicolau Chanterene"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q384813",
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Callicrates"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q209705",
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Absalon"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q184534",
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Mimar Sinan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q390028",
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Andrew Hamilton"
+      },
+      {
+        "@value": "Edmund Woolley"
+      },
+      {
+        "@value": "Robert Mills"
+      },
+      {
+        "@value": "William Strickland"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q284444",
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Jean de Tensanges"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q244952",
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Donato Bramante"
+      },
+      {
+        "@value": "Guiniforte Solari"
+      },
+      {
+        "@value": "Piero Portaluppi"
+      }
+    ]
+  }
+]

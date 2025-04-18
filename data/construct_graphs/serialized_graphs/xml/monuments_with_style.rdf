@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/monuments#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q208181">
+    <ns1:architecturalStyle>English Baroque</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q205367">
+    <ns1:architecturalStyle>French Renaissance architecture</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q244952">
+    <ns1:architecturalStyle>Italian Gothic architecture</ns1:architecturalStyle>
+    <ns1:architecturalStyle>Renaissance architecture</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q318181">
+    <ns1:architecturalStyle>prehistoric art</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q242741">
+    <ns1:architecturalStyle>Ionic order</ns1:architecturalStyle>
+    <ns1:architecturalStyle>ancient Greek architecture</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q209643">
+    <ns1:architecturalStyle>Belarusian Gothic</ns1:architecturalStyle>
+    <ns1:architecturalStyle>Gothic architecture</ns1:architecturalStyle>
+    <ns1:architecturalStyle>Renaissance architecture</ns1:architecturalStyle>
+    <ns1:architecturalStyle>baroque architecture</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q205558">
+    <ns1:architecturalStyle>Gothic architecture</ns1:architecturalStyle>
+    <ns1:architecturalStyle>Renaissance architecture</ns1:architecturalStyle>
+    <ns1:architecturalStyle>Romanesque architecture</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q213988">
+    <ns1:architecturalStyle>Nordic Classicism</ns1:architecturalStyle>
+    <ns1:architecturalStyle>functionalism</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q201428">
+    <ns1:architecturalStyle>Renaissance architecture</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q207985">
+    <ns1:architecturalStyle>classic gothic</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q391229">
+    <ns1:architecturalStyle>Gothic architecture</ns1:architecturalStyle>
+    <ns1:architecturalStyle>Romanesque architecture</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q210678">
+    <ns1:architecturalStyle>Romanesque architecture</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q209705">
+    <ns1:architecturalStyle>Brick Gothic</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q314730">
+    <ns1:architecturalStyle>Art Nouveau architecture</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189648">
+    <ns1:architecturalStyle>Mughal architecture</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q384813">
+    <ns1:architecturalStyle>Ionic order</ns1:architecturalStyle>
+    <ns1:architecturalStyle>amphiprostyle</ns1:architecturalStyle>
+    <ns1:architecturalStyle>tetrastyle</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q208559">
+    <ns1:architecturalStyle>Baroque art</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q210055">
+    <ns1:architecturalStyle>Ottoman architecture</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q301684">
+    <ns1:architecturalStyle>Neoclassical architecture</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q197094">
+    <ns1:architecturalStyle>Byzantine architecture</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q215429">
+    <ns1:architecturalStyle>Gothic Revival</ns1:architecturalStyle>
+    <ns1:architecturalStyle>Gothic architecture</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q184534">
+    <ns1:architecturalStyle>Ottoman architecture</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q187635">
+    <ns1:architecturalStyle>Islamic architecture</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q188754">
+    <ns1:architecturalStyle>Japanese castle architecture</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q278908">
+    <ns1:architecturalStyle>baroque architecture</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q191763">
+    <ns1:architecturalStyle>Shinden-zukuri</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q390028">
+    <ns1:architecturalStyle>Georgian architecture</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q272781">
+    <ns1:architecturalStyle>Manueline</ns1:architecturalStyle>
+    <ns1:architecturalStyle>Renaissance architecture</ns1:architecturalStyle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q245151">
+    <ns1:architecturalStyle>ancient Roman architecture</ns1:architecturalStyle>
+  </rdf:Description>
+</rdf:RDF>

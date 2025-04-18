@@ -1,0 +1,521 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q189417",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Italy"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@value": "-0311-01-01T00:00:00Z"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Appian Way"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q207985",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "classic gothic"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "France"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1195-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Bourges Cathedral"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q245151",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "ancient Roman architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Spain"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "0100-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Tower of Hercules"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q272777",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Italy"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Hadrian's Villa"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q199234",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "France"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1615-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Cordouan Lighthouse"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q202494",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "France"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Canal du Midi"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q374096",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "France"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Chauvet Cave"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q284444",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "France"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1177-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Jean de Tensanges"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "pont Saint-Bénézet"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q244952",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Italian Gothic architecture"
+      },
+      {
+        "@value": "Renaissance architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Italy"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1401-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Donato Bramante"
+      },
+      {
+        "@value": "Guiniforte Solari"
+      },
+      {
+        "@value": "Piero Portaluppi"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Santa Maria delle Grazie Church"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q370956",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Italy"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "City of Vicenza and the Palladian Villas of the Veneto"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q253241",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Italy"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Su Nuraxi di Barumini"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q208633",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Italy"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1335-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Neri di Fioravante"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Ponte Vecchio"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q211252",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Spain"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1000-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Madinat Al-Zahra"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q389269",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "France"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Cité de Carcassonne"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q201428",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Renaissance architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "France"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Palace of Fontainebleau"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q205367",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "French Renaissance architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "France"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1520-01-01T00:00:00+00:00"
+      },
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1545-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Jacques Sourdeau"
+      },
+      {
+        "@value": "Pierre Nepveu"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Château de Chambord"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q212214",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Italy"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Amalfi Coast"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q186536",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "France"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Fort Douaumont"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q189764",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "France"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "0050-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Pont du Gard"
+      }
+    ]
+  }
+]

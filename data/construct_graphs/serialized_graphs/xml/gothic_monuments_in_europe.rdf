@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/monuments#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q205558">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Gothic architecture</ns1:architecturalStyle>
+    <ns1:architecturalStyle>Renaissance architecture</ns1:architecturalStyle>
+    <ns1:architecturalStyle>Romanesque architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Slovakia</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1200-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Spiš Castle</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q391229">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:architecturalStyle>Gothic architecture</ns1:architecturalStyle>
+    <ns1:architecturalStyle>Romanesque architecture</ns1:architecturalStyle>
+    <ns1:continent>Europe</ns1:continent>
+    <ns1:country>Belgium</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1101-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Tournai Cathedral</ns1:name>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,75 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q205558",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Gothic architecture"
+      },
+      {
+        "@value": "Renaissance architecture"
+      },
+      {
+        "@value": "Romanesque architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Slovakia"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1200-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Spiš Castle"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q391229",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Gothic architecture"
+      },
+      {
+        "@value": "Romanesque architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Europe"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Belgium"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1101-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Tournai Cathedral"
+      }
+    ]
+  }
+]

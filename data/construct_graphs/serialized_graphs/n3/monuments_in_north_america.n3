@@ -1,0 +1,109 @@
+@prefix ns1: <http://example.org/monuments#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.wikidata.org/entity/Q189113> a ns1:Monument ;
+    ns1:continent "North America" ;
+    ns1:country "Canada" ;
+    ns1:name "L'Anse aux Meadows" .
+
+<http://www.wikidata.org/entity/Q189934> a ns1:Monument ;
+    ns1:continent "North America",
+        "South America" ;
+    ns1:country "Suriname" ;
+    ns1:name "Central Suriname Nature Reserve" .
+
+<http://www.wikidata.org/entity/Q200521> a ns1:Monument ;
+    ns1:continent "North America" ;
+    ns1:country "Saint Kitts and Nevis" ;
+    ns1:creationYear "1987-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Brimstone Hill Fortress National Park" .
+
+<http://www.wikidata.org/entity/Q205952> a ns1:Monument ;
+    ns1:continent "North America" ;
+    ns1:country "United States" ;
+    ns1:creationYear "1916-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Hawaiʻi Volcanoes National Park" .
+
+<http://www.wikidata.org/entity/Q206194> a ns1:Monument ;
+    ns1:continent "North America" ;
+    ns1:country "Haiti" ;
+    ns1:name "Citadelle Laferrière" .
+
+<http://www.wikidata.org/entity/Q214827> a ns1:Monument ;
+    ns1:continent "North America" ;
+    ns1:country "Honduras" ;
+    ns1:name "Copán" .
+
+<http://www.wikidata.org/entity/Q252814> a ns1:Monument ;
+    ns1:continent "North America" ;
+    ns1:country "United States" ;
+    ns1:name "Taos Pueblo" .
+
+<http://www.wikidata.org/entity/Q257598> a ns1:Monument ;
+    ns1:continent "North America" ;
+    ns1:country "Canada" ;
+    ns1:creationYear "2005-10-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Gros Morne National Park" .
+
+<http://www.wikidata.org/entity/Q272771> a ns1:Monument ;
+    ns1:continent "North America" ;
+    ns1:country "Mexico" ;
+    ns1:name "Calakmul" .
+
+<http://www.wikidata.org/entity/Q273195> a ns1:Monument ;
+    ns1:continent "North America" ;
+    ns1:country "United States" ;
+    ns1:creationYear "1930-05-14T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Carlsbad Caverns National Park" .
+
+<http://www.wikidata.org/entity/Q274131> a ns1:Monument ;
+    ns1:continent "North America" ;
+    ns1:country "United States" ;
+    ns1:creationYear "1947-12-06T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Everglades National Park" .
+
+<http://www.wikidata.org/entity/Q289466> a ns1:Monument ;
+    ns1:continent "North America" ;
+    ns1:country "Canada" ;
+    ns1:creationYear "1955-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Dinosaur Provincial Park" .
+
+<http://www.wikidata.org/entity/Q318422> a ns1:Monument ;
+    ns1:continent "North America" ;
+    ns1:country "Guatemala" ;
+    ns1:name "Quiriguá" .
+
+<http://www.wikidata.org/entity/Q319821> a ns1:Monument ;
+    ns1:continent "North America" ;
+    ns1:country "United States" ;
+    ns1:name "Liberty Island" .
+
+<http://www.wikidata.org/entity/Q333661> a ns1:Monument ;
+    ns1:continent "North America" ;
+    ns1:country "United States" ;
+    ns1:creationYear "1050-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Cahokia" .
+
+<http://www.wikidata.org/entity/Q372093> a ns1:Monument ;
+    ns1:continent "North America" ;
+    ns1:country "United States" ;
+    ns1:creationYear "1938-06-29T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Olympic National Park" .
+
+<http://www.wikidata.org/entity/Q390028> a ns1:Monument ;
+    ns1:architecturalStyle "Georgian architecture" ;
+    ns1:continent "North America" ;
+    ns1:country "United States" ;
+    ns1:creationYear "1753-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:hasArchitect "Andrew Hamilton",
+        "Edmund Woolley",
+        "Robert Mills",
+        "William Strickland" ;
+    ns1:name "Independence Hall" .
+
+<http://www.wikidata.org/entity/Q391338> a ns1:Monument ;
+    ns1:continent "North America" ;
+    ns1:country "Canada" ;
+    ns1:creationYear "1922-12-18T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Wood Buffalo National Park" .
+

@@ -1,0 +1,860 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q324638",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Japan"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Sacred Island of Okinoshima and Associated Sites in the Munakata Region"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q375634",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Sri Lanka"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1978-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Sinharaja Forest Reserve"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q189648",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Mughal architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "India"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Humayun's Tomb"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q305044",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Bangladesh"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Somapura Mahavihara"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q200200",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Iraq"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@value": "-2499-01-01T00:00:00Z"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Assur"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q187635",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Islamic architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "India"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Qutb Minar"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q190165",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Laos"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Luang Prabang"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q192522",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Turkey"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@value": "-7499-01-01T00:00:00Z"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Çatalhöyük"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q207917",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Turkey"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Mount Nemrut"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q190128",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Vietnam"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Ha Long Bay"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q192518",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Yemen"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Shibam"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q193325",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Turkmenistan"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Merv"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q189616",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "India"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Ellora Caves"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q190060",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Vietnam"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Citadel of the Hồ Dynasty"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q319366",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Sri Lanka"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Galle"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q277525",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "North Korea"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Goguryeo tombs"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q197094",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Byzantine architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Turkey"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1136-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Zeyrek Mosque"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q214944",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Turkey"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@value": "-9999-01-01T00:00:00Z"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Göbekli Tepe"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q308805",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "People's Republic of China"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Yungang Grottoes"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q184534",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Ottoman architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Turkey"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1575-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Mimar Sinan"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Selimiye Mosque"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q331603",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "India"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Bhimbetka rock shelters"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q311341",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Saudi Arabia"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Al-Ahsa Oasis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q191763",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Shinden-zukuri"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Japan"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "0593-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Itsukushima Shrine"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q203197",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Sri Lanka"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Kandy"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q206219",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Vietnam"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Imperial Citadel of Thang Long"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q184427",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "India"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@value": "-0200-01-01T00:00:00Z"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Ajanta Caves"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q186312",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Israel"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Masada"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q210610",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Iran"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Golestan Palace"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q272153",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Sri Lanka"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Sigiriya"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q206236",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Iraq"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Citadel of Erbil"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q272680",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Syria"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Bosra"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q207692",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "People's Republic of China"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Wuyi Mountains"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q273834",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "People's Republic of China"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Longmen Grottoes"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q318181",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "prehistoric art"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Azerbaijan"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1966-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Gobustan National Park"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188754",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Japanese castle architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Japan"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1346-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Himeji Castle"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q192764",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Asia"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "India"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1905-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Kaziranga National Park"
+      }
+    ]
+  }
+]

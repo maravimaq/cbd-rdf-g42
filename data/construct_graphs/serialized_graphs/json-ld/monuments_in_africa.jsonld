@@ -1,0 +1,468 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q272768",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Africa"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Seychelles"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Aldabra"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q309426",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Africa"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Uganda"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Kasubi Tombs"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q263883",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Africa"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Republic of the Congo"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1935-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Odzala National Park"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q328577",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Africa"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Ivory Coast"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1972-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Taï National Park"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q310719",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Africa"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "South Africa"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2000-11-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "iSimangaliso Wetland Park"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q214007",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Africa"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Botswana"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Tsodilo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q190048",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Africa"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Algeria"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Tassili n'Ajjer"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q244347",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Africa"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Senegal"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Gorée"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q188938",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Africa"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Tunisia"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Djerba"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q331099",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Africa"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Mozambique"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Island of Mozambique"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q209217",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Africa"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Zimbabwe"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Great Zimbabwe"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q330095",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Africa"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "South Africa"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Vredefort crater"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q379080",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Africa"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Kenya"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1593-04-11T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Giovanni Battista Cairati"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Fort Jesus Museum"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q273456",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Africa"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Ethiopia"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Omo River"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q391215",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Africa"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Morocco"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@value": "-0399-01-01T00:00:00Z"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Volubilis"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q308807",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Africa"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Libya"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Tadrart Acacus"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q192493",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Africa"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "South Africa"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Robben Island"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q328488",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Africa"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Democratic Republic of the Congo"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1970-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Salonga National Park"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q308893",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Africa"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Democratic Republic of the Congo"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1938-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Garamba National Park"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q309436",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "Africa"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Morocco"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Aït Benhaddou"
+      }
+    ]
+  }
+]

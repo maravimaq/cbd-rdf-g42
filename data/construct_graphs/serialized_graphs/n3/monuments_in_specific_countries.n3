@@ -1,0 +1,122 @@
+@prefix ns1: <http://example.org/monuments#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.wikidata.org/entity/Q186536> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "France" ;
+    ns1:name "Fort Douaumont" .
+
+<http://www.wikidata.org/entity/Q189417> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "Italy" ;
+    ns1:creationYear "-0311-01-01T00:00:00Z" ;
+    ns1:name "Appian Way" .
+
+<http://www.wikidata.org/entity/Q189764> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "France" ;
+    ns1:creationYear "0050-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Pont du Gard" .
+
+<http://www.wikidata.org/entity/Q199234> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "France" ;
+    ns1:creationYear "1615-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Cordouan Lighthouse" .
+
+<http://www.wikidata.org/entity/Q201428> a ns1:Monument ;
+    ns1:architecturalStyle "Renaissance architecture" ;
+    ns1:continent "Europe" ;
+    ns1:country "France" ;
+    ns1:name "Palace of Fontainebleau" .
+
+<http://www.wikidata.org/entity/Q202494> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "France" ;
+    ns1:name "Canal du Midi" .
+
+<http://www.wikidata.org/entity/Q205367> a ns1:Monument ;
+    ns1:architecturalStyle "French Renaissance architecture" ;
+    ns1:continent "Europe" ;
+    ns1:country "France" ;
+    ns1:creationYear "1520-01-01T00:00:00+00:00"^^xsd:dateTime,
+        "1545-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:hasArchitect "Jacques Sourdeau",
+        "Pierre Nepveu" ;
+    ns1:name "Château de Chambord" .
+
+<http://www.wikidata.org/entity/Q207985> a ns1:Monument ;
+    ns1:architecturalStyle "classic gothic" ;
+    ns1:continent "Europe" ;
+    ns1:country "France" ;
+    ns1:creationYear "1195-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Bourges Cathedral" .
+
+<http://www.wikidata.org/entity/Q208633> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "Italy" ;
+    ns1:creationYear "1335-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:hasArchitect "Neri di Fioravante" ;
+    ns1:name "Ponte Vecchio" .
+
+<http://www.wikidata.org/entity/Q211252> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "Spain" ;
+    ns1:creationYear "1000-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Madinat Al-Zahra" .
+
+<http://www.wikidata.org/entity/Q212214> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "Italy" ;
+    ns1:name "Amalfi Coast" .
+
+<http://www.wikidata.org/entity/Q244952> a ns1:Monument ;
+    ns1:architecturalStyle "Italian Gothic architecture",
+        "Renaissance architecture" ;
+    ns1:continent "Europe" ;
+    ns1:country "Italy" ;
+    ns1:creationYear "1401-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:hasArchitect "Donato Bramante",
+        "Guiniforte Solari",
+        "Piero Portaluppi" ;
+    ns1:name "Santa Maria delle Grazie Church" .
+
+<http://www.wikidata.org/entity/Q245151> a ns1:Monument ;
+    ns1:architecturalStyle "ancient Roman architecture" ;
+    ns1:continent "Europe" ;
+    ns1:country "Spain" ;
+    ns1:creationYear "0100-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Tower of Hercules" .
+
+<http://www.wikidata.org/entity/Q253241> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "Italy" ;
+    ns1:name "Su Nuraxi di Barumini" .
+
+<http://www.wikidata.org/entity/Q272777> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "Italy" ;
+    ns1:name "Hadrian's Villa" .
+
+<http://www.wikidata.org/entity/Q284444> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "France" ;
+    ns1:creationYear "1177-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:hasArchitect "Jean de Tensanges" ;
+    ns1:name "pont Saint-Bénézet" .
+
+<http://www.wikidata.org/entity/Q370956> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "Italy" ;
+    ns1:name "City of Vicenza and the Palladian Villas of the Veneto" .
+
+<http://www.wikidata.org/entity/Q374096> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "France" ;
+    ns1:name "Chauvet Cave" .
+
+<http://www.wikidata.org/entity/Q389269> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "France" ;
+    ns1:name "Cité de Carcassonne" .
+

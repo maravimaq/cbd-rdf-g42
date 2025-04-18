@@ -1,0 +1,88 @@
+<http://www.wikidata.org/entity/Q289466> <http://example.org/monuments#creationYear> "1955-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q214827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q189113> <http://example.org/monuments#country> "Canada" .
+<http://www.wikidata.org/entity/Q205952> <http://example.org/monuments#creationYear> "1916-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q252814> <http://example.org/monuments#country> "United States" .
+<http://www.wikidata.org/entity/Q318422> <http://example.org/monuments#continent> "North America" .
+<http://www.wikidata.org/entity/Q391338> <http://example.org/monuments#country> "Canada" .
+<http://www.wikidata.org/entity/Q318422> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q206194> <http://example.org/monuments#name> "Citadelle Laferrière" .
+<http://www.wikidata.org/entity/Q319821> <http://example.org/monuments#country> "United States" .
+<http://www.wikidata.org/entity/Q214827> <http://example.org/monuments#country> "Honduras" .
+<http://www.wikidata.org/entity/Q274131> <http://example.org/monuments#creationYear> "1947-12-06T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q189934> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q189113> <http://example.org/monuments#continent> "North America" .
+<http://www.wikidata.org/entity/Q205952> <http://example.org/monuments#continent> "North America" .
+<http://www.wikidata.org/entity/Q206194> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q390028> <http://example.org/monuments#hasArchitect> "Andrew Hamilton" .
+<http://www.wikidata.org/entity/Q189113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q391338> <http://example.org/monuments#continent> "North America" .
+<http://www.wikidata.org/entity/Q257598> <http://example.org/monuments#name> "Gros Morne National Park" .
+<http://www.wikidata.org/entity/Q200521> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q206194> <http://example.org/monuments#continent> "North America" .
+<http://www.wikidata.org/entity/Q390028> <http://example.org/monuments#hasArchitect> "William Strickland" .
+<http://www.wikidata.org/entity/Q391338> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q274131> <http://example.org/monuments#name> "Everglades National Park" .
+<http://www.wikidata.org/entity/Q390028> <http://example.org/monuments#continent> "North America" .
+<http://www.wikidata.org/entity/Q205952> <http://example.org/monuments#country> "United States" .
+<http://www.wikidata.org/entity/Q333661> <http://example.org/monuments#name> "Cahokia" .
+<http://www.wikidata.org/entity/Q272771> <http://example.org/monuments#continent> "North America" .
+<http://www.wikidata.org/entity/Q390028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q200521> <http://example.org/monuments#name> "Brimstone Hill Fortress National Park" .
+<http://www.wikidata.org/entity/Q272771> <http://example.org/monuments#country> "Mexico" .
+<http://www.wikidata.org/entity/Q252814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q372093> <http://example.org/monuments#creationYear> "1938-06-29T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q319821> <http://example.org/monuments#continent> "North America" .
+<http://www.wikidata.org/entity/Q333661> <http://example.org/monuments#continent> "North America" .
+<http://www.wikidata.org/entity/Q390028> <http://example.org/monuments#hasArchitect> "Robert Mills" .
+<http://www.wikidata.org/entity/Q252814> <http://example.org/monuments#continent> "North America" .
+<http://www.wikidata.org/entity/Q390028> <http://example.org/monuments#architecturalStyle> "Georgian architecture" .
+<http://www.wikidata.org/entity/Q189934> <http://example.org/monuments#country> "Suriname" .
+<http://www.wikidata.org/entity/Q206194> <http://example.org/monuments#country> "Haiti" .
+<http://www.wikidata.org/entity/Q257598> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q318422> <http://example.org/monuments#country> "Guatemala" .
+<http://www.wikidata.org/entity/Q390028> <http://example.org/monuments#name> "Independence Hall" .
+<http://www.wikidata.org/entity/Q214827> <http://example.org/monuments#name> "Copán" .
+<http://www.wikidata.org/entity/Q390028> <http://example.org/monuments#creationYear> "1753-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q319821> <http://example.org/monuments#name> "Liberty Island" .
+<http://www.wikidata.org/entity/Q391338> <http://example.org/monuments#name> "Wood Buffalo National Park" .
+<http://www.wikidata.org/entity/Q273195> <http://example.org/monuments#name> "Carlsbad Caverns National Park" .
+<http://www.wikidata.org/entity/Q333661> <http://example.org/monuments#country> "United States" .
+<http://www.wikidata.org/entity/Q272771> <http://example.org/monuments#name> "Calakmul" .
+<http://www.wikidata.org/entity/Q214827> <http://example.org/monuments#continent> "North America" .
+<http://www.wikidata.org/entity/Q333661> <http://example.org/monuments#creationYear> "1050-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q189934> <http://example.org/monuments#continent> "North America" .
+<http://www.wikidata.org/entity/Q318422> <http://example.org/monuments#name> "Quiriguá" .
+<http://www.wikidata.org/entity/Q273195> <http://example.org/monuments#country> "United States" .
+<http://www.wikidata.org/entity/Q390028> <http://example.org/monuments#country> "United States" .
+<http://www.wikidata.org/entity/Q252814> <http://example.org/monuments#name> "Taos Pueblo" .
+<http://www.wikidata.org/entity/Q372093> <http://example.org/monuments#name> "Olympic National Park" .
+<http://www.wikidata.org/entity/Q200521> <http://example.org/monuments#creationYear> "1987-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q372093> <http://example.org/monuments#country> "United States" .
+<http://www.wikidata.org/entity/Q273195> <http://example.org/monuments#creationYear> "1930-05-14T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q205952> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q289466> <http://example.org/monuments#continent> "North America" .
+<http://www.wikidata.org/entity/Q274131> <http://example.org/monuments#continent> "North America" .
+<http://www.wikidata.org/entity/Q289466> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q274131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q189934> <http://example.org/monuments#continent> "South America" .
+<http://www.wikidata.org/entity/Q200521> <http://example.org/monuments#continent> "North America" .
+<http://www.wikidata.org/entity/Q391338> <http://example.org/monuments#creationYear> "1922-12-18T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q200521> <http://example.org/monuments#country> "Saint Kitts and Nevis" .
+<http://www.wikidata.org/entity/Q390028> <http://example.org/monuments#hasArchitect> "Edmund Woolley" .
+<http://www.wikidata.org/entity/Q189934> <http://example.org/monuments#name> "Central Suriname Nature Reserve" .
+<http://www.wikidata.org/entity/Q257598> <http://example.org/monuments#country> "Canada" .
+<http://www.wikidata.org/entity/Q319821> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q273195> <http://example.org/monuments#continent> "North America" .
+<http://www.wikidata.org/entity/Q333661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q273195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q257598> <http://example.org/monuments#creationYear> "2005-10-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q289466> <http://example.org/monuments#name> "Dinosaur Provincial Park" .
+<http://www.wikidata.org/entity/Q372093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q274131> <http://example.org/monuments#country> "United States" .
+<http://www.wikidata.org/entity/Q272771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q257598> <http://example.org/monuments#continent> "North America" .
+<http://www.wikidata.org/entity/Q189113> <http://example.org/monuments#name> "L'Anse aux Meadows" .
+<http://www.wikidata.org/entity/Q289466> <http://example.org/monuments#country> "Canada" .
+<http://www.wikidata.org/entity/Q205952> <http://example.org/monuments#name> "Hawaiʻi Volcanoes National Park" .
+<http://www.wikidata.org/entity/Q372093> <http://example.org/monuments#continent> "North America" .

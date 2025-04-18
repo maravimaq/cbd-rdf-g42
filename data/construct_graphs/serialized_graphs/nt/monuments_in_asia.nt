@@ -1,0 +1,163 @@
+<http://www.wikidata.org/entity/Q193325> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q206219> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q192522> <http://example.org/monuments#country> "Turkey" .
+<http://www.wikidata.org/entity/Q207917> <http://example.org/monuments#name> "Mount Nemrut" .
+<http://www.wikidata.org/entity/Q192764> <http://example.org/monuments#name> "Kaziranga National Park" .
+<http://www.wikidata.org/entity/Q272680> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q272680> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q318181> <http://example.org/monuments#architecturalStyle> "prehistoric art" .
+<http://www.wikidata.org/entity/Q324638> <http://example.org/monuments#name> "Sacred Island of Okinoshima and Associated Sites in the Munakata Region" .
+<http://www.wikidata.org/entity/Q203197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q184534> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q190165> <http://example.org/monuments#name> "Luang Prabang" .
+<http://www.wikidata.org/entity/Q184427> <http://example.org/monuments#creationYear> "-0200-01-01T00:00:00Z" .
+<http://www.wikidata.org/entity/Q197094> <http://example.org/monuments#country> "Turkey" .
+<http://www.wikidata.org/entity/Q187635> <http://example.org/monuments#country> "India" .
+<http://www.wikidata.org/entity/Q210610> <http://example.org/monuments#name> "Golestan Palace" .
+<http://www.wikidata.org/entity/Q273834> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q197094> <http://example.org/monuments#creationYear> "1136-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q200200> <http://example.org/monuments#creationYear> "-2499-01-01T00:00:00Z" .
+<http://www.wikidata.org/entity/Q184534> <http://example.org/monuments#country> "Turkey" .
+<http://www.wikidata.org/entity/Q214944> <http://example.org/monuments#creationYear> "-9999-01-01T00:00:00Z" .
+<http://www.wikidata.org/entity/Q186312> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q186312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q188754> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q188754> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q189616> <http://example.org/monuments#name> "Ellora Caves" .
+<http://www.wikidata.org/entity/Q189648> <http://example.org/monuments#name> "Humayun's Tomb" .
+<http://www.wikidata.org/entity/Q207692> <http://example.org/monuments#country> "People's Republic of China" .
+<http://www.wikidata.org/entity/Q318181> <http://example.org/monuments#country> "Azerbaijan" .
+<http://www.wikidata.org/entity/Q272680> <http://example.org/monuments#name> "Bosra" .
+<http://www.wikidata.org/entity/Q190128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q206219> <http://example.org/monuments#country> "Vietnam" .
+<http://www.wikidata.org/entity/Q207692> <http://example.org/monuments#name> "Wuyi Mountains" .
+<http://www.wikidata.org/entity/Q273834> <http://example.org/monuments#name> "Longmen Grottoes" .
+<http://www.wikidata.org/entity/Q197094> <http://example.org/monuments#architecturalStyle> "Byzantine architecture" .
+<http://www.wikidata.org/entity/Q191763> <http://example.org/monuments#creationYear> "0593-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q200200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q375634> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q184534> <http://example.org/monuments#architecturalStyle> "Ottoman architecture" .
+<http://www.wikidata.org/entity/Q375634> <http://example.org/monuments#name> "Sinharaja Forest Reserve" .
+<http://www.wikidata.org/entity/Q189616> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q189648> <http://example.org/monuments#country> "India" .
+<http://www.wikidata.org/entity/Q187635> <http://example.org/monuments#name> "Qutb Minar" .
+<http://www.wikidata.org/entity/Q277525> <http://example.org/monuments#country> "North Korea" .
+<http://www.wikidata.org/entity/Q272680> <http://example.org/monuments#country> "Syria" .
+<http://www.wikidata.org/entity/Q308805> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q190060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q190128> <http://example.org/monuments#name> "Ha Long Bay" .
+<http://www.wikidata.org/entity/Q324638> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q375634> <http://example.org/monuments#country> "Sri Lanka" .
+<http://www.wikidata.org/entity/Q277525> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q197094> <http://example.org/monuments#name> "Zeyrek Mosque" .
+<http://www.wikidata.org/entity/Q192518> <http://example.org/monuments#name> "Shibam" .
+<http://www.wikidata.org/entity/Q305044> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q305044> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q311341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q319366> <http://example.org/monuments#name> "Galle" .
+<http://www.wikidata.org/entity/Q189616> <http://example.org/monuments#country> "India" .
+<http://www.wikidata.org/entity/Q203197> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q186312> <http://example.org/monuments#country> "Israel" .
+<http://www.wikidata.org/entity/Q200200> <http://example.org/monuments#country> "Iraq" .
+<http://www.wikidata.org/entity/Q324638> <http://example.org/monuments#country> "Japan" .
+<http://www.wikidata.org/entity/Q187635> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q187635> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q273834> <http://example.org/monuments#country> "People's Republic of China" .
+<http://www.wikidata.org/entity/Q188754> <http://example.org/monuments#creationYear> "1346-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q184534> <http://example.org/monuments#hasArchitect> "Mimar Sinan" .
+<http://www.wikidata.org/entity/Q184534> <http://example.org/monuments#name> "Selimiye Mosque" .
+<http://www.wikidata.org/entity/Q192518> <http://example.org/monuments#country> "Yemen" .
+<http://www.wikidata.org/entity/Q193325> <http://example.org/monuments#name> "Merv" .
+<http://www.wikidata.org/entity/Q190060> <http://example.org/monuments#name> "Citadel of the Hồ Dynasty" .
+<http://www.wikidata.org/entity/Q200200> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q272153> <http://example.org/monuments#country> "Sri Lanka" .
+<http://www.wikidata.org/entity/Q207692> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q207692> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q190128> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q190165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q187635> <http://example.org/monuments#architecturalStyle> "Islamic architecture" .
+<http://www.wikidata.org/entity/Q190165> <http://example.org/monuments#country> "Laos" .
+<http://www.wikidata.org/entity/Q184427> <http://example.org/monuments#country> "India" .
+<http://www.wikidata.org/entity/Q189648> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q191763> <http://example.org/monuments#architecturalStyle> "Shinden-zukuri" .
+<http://www.wikidata.org/entity/Q192764> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q192764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q189616> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q214944> <http://example.org/monuments#name> "Göbekli Tepe" .
+<http://www.wikidata.org/entity/Q192764> <http://example.org/monuments#country> "India" .
+<http://www.wikidata.org/entity/Q214944> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q192522> <http://example.org/monuments#creationYear> "-7499-01-01T00:00:00Z" .
+<http://www.wikidata.org/entity/Q207917> <http://example.org/monuments#country> "Turkey" .
+<http://www.wikidata.org/entity/Q272153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q190060> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q272153> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q308805> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q324638> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q192522> <http://example.org/monuments#name> "Çatalhöyük" .
+<http://www.wikidata.org/entity/Q184427> <http://example.org/monuments#name> "Ajanta Caves" .
+<http://www.wikidata.org/entity/Q311341> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q190128> <http://example.org/monuments#country> "Vietnam" .
+<http://www.wikidata.org/entity/Q189648> <http://example.org/monuments#architecturalStyle> "Mughal architecture" .
+<http://www.wikidata.org/entity/Q191763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q192522> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q192522> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q206236> <http://example.org/monuments#name> "Citadel of Erbil" .
+<http://www.wikidata.org/entity/Q210610> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q318181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q318181> <http://example.org/monuments#creationYear> "1966-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q272153> <http://example.org/monuments#name> "Sigiriya" .
+<http://www.wikidata.org/entity/Q186312> <http://example.org/monuments#name> "Masada" .
+<http://www.wikidata.org/entity/Q318181> <http://example.org/monuments#name> "Gobustan National Park" .
+<http://www.wikidata.org/entity/Q305044> <http://example.org/monuments#country> "Bangladesh" .
+<http://www.wikidata.org/entity/Q191763> <http://example.org/monuments#name> "Itsukushima Shrine" .
+<http://www.wikidata.org/entity/Q311341> <http://example.org/monuments#country> "Saudi Arabia" .
+<http://www.wikidata.org/entity/Q191763> <http://example.org/monuments#country> "Japan" .
+<http://www.wikidata.org/entity/Q311341> <http://example.org/monuments#name> "Al-Ahsa Oasis" .
+<http://www.wikidata.org/entity/Q190060> <http://example.org/monuments#country> "Vietnam" .
+<http://www.wikidata.org/entity/Q197094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q188754> <http://example.org/monuments#architecturalStyle> "Japanese castle architecture" .
+<http://www.wikidata.org/entity/Q192518> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q184427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q188754> <http://example.org/monuments#country> "Japan" .
+<http://www.wikidata.org/entity/Q193325> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q190165> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q188754> <http://example.org/monuments#name> "Himeji Castle" .
+<http://www.wikidata.org/entity/Q331603> <http://example.org/monuments#name> "Bhimbetka rock shelters" .
+<http://www.wikidata.org/entity/Q206219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q189648> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q184534> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q206219> <http://example.org/monuments#name> "Imperial Citadel of Thang Long" .
+<http://www.wikidata.org/entity/Q308805> <http://example.org/monuments#country> "People's Republic of China" .
+<http://www.wikidata.org/entity/Q210610> <http://example.org/monuments#country> "Iran" .
+<http://www.wikidata.org/entity/Q203197> <http://example.org/monuments#name> "Kandy" .
+<http://www.wikidata.org/entity/Q214944> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q206236> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q206236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q273834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q200200> <http://example.org/monuments#name> "Assur" .
+<http://www.wikidata.org/entity/Q319366> <http://example.org/monuments#country> "Sri Lanka" .
+<http://www.wikidata.org/entity/Q308805> <http://example.org/monuments#name> "Yungang Grottoes" .
+<http://www.wikidata.org/entity/Q331603> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q203197> <http://example.org/monuments#country> "Sri Lanka" .
+<http://www.wikidata.org/entity/Q331603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q192764> <http://example.org/monuments#creationYear> "1905-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q184534> <http://example.org/monuments#creationYear> "1575-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q210610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q331603> <http://example.org/monuments#country> "India" .
+<http://www.wikidata.org/entity/Q191763> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q318181> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q375634> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q277525> <http://example.org/monuments#name> "Goguryeo tombs" .
+<http://www.wikidata.org/entity/Q193325> <http://example.org/monuments#country> "Turkmenistan" .
+<http://www.wikidata.org/entity/Q207917> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q207917> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q214944> <http://example.org/monuments#country> "Turkey" .
+<http://www.wikidata.org/entity/Q305044> <http://example.org/monuments#name> "Somapura Mahavihara" .
+<http://www.wikidata.org/entity/Q375634> <http://example.org/monuments#creationYear> "1978-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q206236> <http://example.org/monuments#country> "Iraq" .
+<http://www.wikidata.org/entity/Q197094> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q319366> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q319366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q192518> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q184427> <http://example.org/monuments#continent> "Asia" .
+<http://www.wikidata.org/entity/Q277525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .

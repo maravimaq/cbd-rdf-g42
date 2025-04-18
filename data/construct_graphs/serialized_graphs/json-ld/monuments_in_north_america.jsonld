@@ -1,0 +1,462 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q257598",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "North America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Canada"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2005-10-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Gros Morne National Park"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q200521",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "North America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Saint Kitts and Nevis"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1987-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Brimstone Hill Fortress National Park"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q214827",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "North America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Honduras"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Copán"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q272771",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "North America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Mexico"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Calakmul"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q391338",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "North America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Canada"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1922-12-18T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Wood Buffalo National Park"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q319821",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "North America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "United States"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Liberty Island"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q289466",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "North America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Canada"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1955-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Dinosaur Provincial Park"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q252814",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "North America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "United States"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Taos Pueblo"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q318422",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "North America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Guatemala"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Quiriguá"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q274131",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "North America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "United States"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1947-12-06T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Everglades National Park"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q189934",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "North America"
+      },
+      {
+        "@value": "South America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Suriname"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Central Suriname Nature Reserve"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q333661",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "North America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "United States"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1050-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Cahokia"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q390028",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#architecturalStyle": [
+      {
+        "@value": "Georgian architecture"
+      }
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "North America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "United States"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1753-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#hasArchitect": [
+      {
+        "@value": "Andrew Hamilton"
+      },
+      {
+        "@value": "Edmund Woolley"
+      },
+      {
+        "@value": "Robert Mills"
+      },
+      {
+        "@value": "William Strickland"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Independence Hall"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q206194",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "North America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Haiti"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Citadelle Laferrière"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q372093",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "North America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "United States"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1938-06-29T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Olympic National Park"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q273195",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "North America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "United States"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1930-05-14T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Carlsbad Caverns National Park"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q189113",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "North America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Canada"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "L'Anse aux Meadows"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q205952",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "North America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "United States"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1916-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Hawaiʻi Volcanoes National Park"
+      }
+    ]
+  }
+]

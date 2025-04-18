@@ -1,0 +1,48 @@
+@prefix ns1: <http://example.org/monuments#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:QBamiyan a ns1:Monument ;
+    ns1:creationYear "1067-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Bamiyan Valley" ;
+    ns1:type "Cultural Heritage Site" .
+
+ns1:QBorobudur a ns1:Monument ;
+    ns1:creationYear "1067-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Borobudur" ;
+    ns1:type "Cultural Heritage Site" .
+
+ns1:QPetra a ns1:Monument ;
+    ns1:creationYear "1067-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Petra" ;
+    ns1:type "Cultural Heritage Site" .
+
+<http://www.wikidata.org/entity/Q184534> a ns1:Monument ;
+    ns1:creationYear "1575-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "POST1500_Selimiye Mosque (Edirne)" ;
+    ns1:type "Cultural Heritage Site" .
+
+<http://www.wikidata.org/entity/Q188754> a ns1:Monument ;
+    ns1:creationYear "1346-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Himeji Fortress" ;
+    ns1:type "Cultural Heritage Site" .
+
+<http://www.wikidata.org/entity/Q192764> a ns1:Monument ;
+    ns1:creationYear "1906-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "POST1500_Kaziranga National Park" ;
+    ns1:type "Cultural Heritage Site" .
+
+<http://www.wikidata.org/entity/Q197094> a ns1:Monument ;
+    ns1:name "Zeyrek Mosque" ;
+    ns1:type "Cultural Heritage Site" .
+
+<http://www.wikidata.org/entity/Q318181> a ns1:Monument ;
+    ns1:creationYear "1966-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "POST1500_Gobustan National Park" ;
+    ns1:type "Cultural Heritage Site",
+        "Rock Art Site" .
+
+<http://www.wikidata.org/entity/Q375634> a ns1:Monument ;
+    ns1:creationYear "1978-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "POST1500_Sinharaja Grand Forest Reserve" ;
+    ns1:type "Cultural Heritage Site" .
+

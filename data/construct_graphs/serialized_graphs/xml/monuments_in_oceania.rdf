@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/monuments#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q189657">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Oceania</ns1:continent>
+    <ns1:country>Australia</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1979-04-05T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Kakadu National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q251999">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Oceania</ns1:continent>
+    <ns1:country>Australia</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1958-01-23T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Uluṟu-Kata Tjuṯa National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q202845">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Australian continent</ns1:continent>
+    <ns1:continent>Insular Oceania</ns1:continent>
+    <ns1:continent>Oceania</ns1:continent>
+    <ns1:country>New Zealand</ns1:country>
+    <ns1:creationYear rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1887-01-01T00:00:00+00:00</ns1:creationYear>
+    <ns1:name>Tongariro National Park</ns1:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q260465">
+    <rdf:type rdf:resource="http://example.org/monuments#Monument"/>
+    <ns1:continent>Oceania</ns1:continent>
+    <ns1:country>Australia</ns1:country>
+    <ns1:name>Budj Bim</ns1:name>
+  </rdf:Description>
+</rdf:RDF>

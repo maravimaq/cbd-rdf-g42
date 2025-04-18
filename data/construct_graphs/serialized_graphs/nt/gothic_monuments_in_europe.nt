@@ -1,0 +1,15 @@
+<http://www.wikidata.org/entity/Q205558> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q205558> <http://example.org/monuments#architecturalStyle> "Gothic architecture" .
+<http://www.wikidata.org/entity/Q391229> <http://example.org/monuments#country> "Belgium" .
+<http://www.wikidata.org/entity/Q205558> <http://example.org/monuments#country> "Slovakia" .
+<http://www.wikidata.org/entity/Q205558> <http://example.org/monuments#architecturalStyle> "Romanesque architecture" .
+<http://www.wikidata.org/entity/Q205558> <http://example.org/monuments#creationYear> "1200-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q391229> <http://example.org/monuments#architecturalStyle> "Gothic architecture" .
+<http://www.wikidata.org/entity/Q391229> <http://example.org/monuments#name> "Tournai Cathedral" .
+<http://www.wikidata.org/entity/Q391229> <http://example.org/monuments#architecturalStyle> "Romanesque architecture" .
+<http://www.wikidata.org/entity/Q391229> <http://example.org/monuments#creationYear> "1101-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q391229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q205558> <http://example.org/monuments#architecturalStyle> "Renaissance architecture" .
+<http://www.wikidata.org/entity/Q391229> <http://example.org/monuments#continent> "Europe" .
+<http://www.wikidata.org/entity/Q205558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q205558> <http://example.org/monuments#name> "Spiš Castle" .

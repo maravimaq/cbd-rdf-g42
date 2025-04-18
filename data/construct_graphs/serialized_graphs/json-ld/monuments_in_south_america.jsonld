@@ -1,0 +1,176 @@
+[
+  {
+    "@id": "http://www.wikidata.org/entity/Q305169",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "South America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Colombia"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1974-08-06T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Los Katíos National Park"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q277540",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "South America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Peru"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "0850-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Chan Chan"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q390264",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "South America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Peru"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1973-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Manu National Park"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q213237",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "South America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Argentina"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Valdes Peninsula"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q278512",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "South America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Brazil"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Cerrado"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q189934",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "North America"
+      },
+      {
+        "@value": "South America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Suriname"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Central Suriname Nature Reserve"
+      }
+    ]
+  },
+  {
+    "@id": "http://www.wikidata.org/entity/Q267394",
+    "@type": [
+      "http://example.org/monuments#Monument"
+    ],
+    "http://example.org/monuments#continent": [
+      {
+        "@value": "South America"
+      }
+    ],
+    "http://example.org/monuments#country": [
+      {
+        "@value": "Brazil"
+      }
+    ],
+    "http://example.org/monuments#creationYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "1979-01-01T00:00:00+00:00"
+      }
+    ],
+    "http://example.org/monuments#name": [
+      {
+        "@value": "Serra da Capivara National Park"
+      }
+    ]
+  }
+]

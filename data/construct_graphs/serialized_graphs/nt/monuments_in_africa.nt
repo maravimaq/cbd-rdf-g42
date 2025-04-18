@@ -1,0 +1,88 @@
+<http://www.wikidata.org/entity/Q263883> <http://example.org/monuments#country> "Republic of the Congo" .
+<http://www.wikidata.org/entity/Q188938> <http://example.org/monuments#continent> "Africa" .
+<http://www.wikidata.org/entity/Q308893> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q308893> <http://example.org/monuments#name> "Garamba National Park" .
+<http://www.wikidata.org/entity/Q309436> <http://example.org/monuments#country> "Morocco" .
+<http://www.wikidata.org/entity/Q273456> <http://example.org/monuments#country> "Ethiopia" .
+<http://www.wikidata.org/entity/Q328577> <http://example.org/monuments#creationYear> "1972-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q331099> <http://example.org/monuments#name> "Island of Mozambique" .
+<http://www.wikidata.org/entity/Q209217> <http://example.org/monuments#name> "Great Zimbabwe" .
+<http://www.wikidata.org/entity/Q328488> <http://example.org/monuments#creationYear> "1970-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q379080> <http://example.org/monuments#creationYear> "1593-04-11T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q209217> <http://example.org/monuments#continent> "Africa" .
+<http://www.wikidata.org/entity/Q328577> <http://example.org/monuments#continent> "Africa" .
+<http://www.wikidata.org/entity/Q330095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q328577> <http://example.org/monuments#country> "Ivory Coast" .
+<http://www.wikidata.org/entity/Q330095> <http://example.org/monuments#country> "South Africa" .
+<http://www.wikidata.org/entity/Q192493> <http://example.org/monuments#continent> "Africa" .
+<http://www.wikidata.org/entity/Q244347> <http://example.org/monuments#name> "Gorée" .
+<http://www.wikidata.org/entity/Q309426> <http://example.org/monuments#continent> "Africa" .
+<http://www.wikidata.org/entity/Q330095> <http://example.org/monuments#name> "Vredefort crater" .
+<http://www.wikidata.org/entity/Q192493> <http://example.org/monuments#name> "Robben Island" .
+<http://www.wikidata.org/entity/Q391215> <http://example.org/monuments#name> "Volubilis" .
+<http://www.wikidata.org/entity/Q379080> <http://example.org/monuments#continent> "Africa" .
+<http://www.wikidata.org/entity/Q310719> <http://example.org/monuments#name> "iSimangaliso Wetland Park" .
+<http://www.wikidata.org/entity/Q272768> <http://example.org/monuments#continent> "Africa" .
+<http://www.wikidata.org/entity/Q331099> <http://example.org/monuments#continent> "Africa" .
+<http://www.wikidata.org/entity/Q308807> <http://example.org/monuments#continent> "Africa" .
+<http://www.wikidata.org/entity/Q308893> <http://example.org/monuments#country> "Democratic Republic of the Congo" .
+<http://www.wikidata.org/entity/Q391215> <http://example.org/monuments#continent> "Africa" .
+<http://www.wikidata.org/entity/Q214007> <http://example.org/monuments#country> "Botswana" .
+<http://www.wikidata.org/entity/Q310719> <http://example.org/monuments#continent> "Africa" .
+<http://www.wikidata.org/entity/Q214007> <http://example.org/monuments#continent> "Africa" .
+<http://www.wikidata.org/entity/Q272768> <http://example.org/monuments#country> "Seychelles" .
+<http://www.wikidata.org/entity/Q190048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q263883> <http://example.org/monuments#name> "Odzala National Park" .
+<http://www.wikidata.org/entity/Q273456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q272768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q310719> <http://example.org/monuments#creationYear> "2000-11-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q190048> <http://example.org/monuments#name> "Tassili n'Ajjer" .
+<http://www.wikidata.org/entity/Q331099> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q330095> <http://example.org/monuments#continent> "Africa" .
+<http://www.wikidata.org/entity/Q308807> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q391215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q310719> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q188938> <http://example.org/monuments#country> "Tunisia" .
+<http://www.wikidata.org/entity/Q331099> <http://example.org/monuments#country> "Mozambique" .
+<http://www.wikidata.org/entity/Q379080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q308893> <http://example.org/monuments#continent> "Africa" .
+<http://www.wikidata.org/entity/Q309426> <http://example.org/monuments#name> "Kasubi Tombs" .
+<http://www.wikidata.org/entity/Q309426> <http://example.org/monuments#country> "Uganda" .
+<http://www.wikidata.org/entity/Q328488> <http://example.org/monuments#continent> "Africa" .
+<http://www.wikidata.org/entity/Q309436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q391215> <http://example.org/monuments#country> "Morocco" .
+<http://www.wikidata.org/entity/Q244347> <http://example.org/monuments#continent> "Africa" .
+<http://www.wikidata.org/entity/Q308807> <http://example.org/monuments#name> "Tadrart Acacus" .
+<http://www.wikidata.org/entity/Q328488> <http://example.org/monuments#name> "Salonga National Park" .
+<http://www.wikidata.org/entity/Q379080> <http://example.org/monuments#name> "Fort Jesus Museum" .
+<http://www.wikidata.org/entity/Q263883> <http://example.org/monuments#continent> "Africa" .
+<http://www.wikidata.org/entity/Q273456> <http://example.org/monuments#name> "Omo River" .
+<http://www.wikidata.org/entity/Q188938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q244347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q328488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q308893> <http://example.org/monuments#creationYear> "1938-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q379080> <http://example.org/monuments#hasArchitect> "Giovanni Battista Cairati" .
+<http://www.wikidata.org/entity/Q209217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q328577> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q190048> <http://example.org/monuments#country> "Algeria" .
+<http://www.wikidata.org/entity/Q328577> <http://example.org/monuments#name> "Taï National Park" .
+<http://www.wikidata.org/entity/Q273456> <http://example.org/monuments#continent> "Africa" .
+<http://www.wikidata.org/entity/Q244347> <http://example.org/monuments#country> "Senegal" .
+<http://www.wikidata.org/entity/Q272768> <http://example.org/monuments#name> "Aldabra" .
+<http://www.wikidata.org/entity/Q309426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q328488> <http://example.org/monuments#country> "Democratic Republic of the Congo" .
+<http://www.wikidata.org/entity/Q190048> <http://example.org/monuments#continent> "Africa" .
+<http://www.wikidata.org/entity/Q214007> <http://example.org/monuments#name> "Tsodilo" .
+<http://www.wikidata.org/entity/Q263883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q308807> <http://example.org/monuments#country> "Libya" .
+<http://www.wikidata.org/entity/Q192493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q192493> <http://example.org/monuments#country> "South Africa" .
+<http://www.wikidata.org/entity/Q263883> <http://example.org/monuments#creationYear> "1935-01-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://www.wikidata.org/entity/Q188938> <http://example.org/monuments#name> "Djerba" .
+<http://www.wikidata.org/entity/Q209217> <http://example.org/monuments#country> "Zimbabwe" .
+<http://www.wikidata.org/entity/Q214007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/monuments#Monument> .
+<http://www.wikidata.org/entity/Q309436> <http://example.org/monuments#name> "Aït Benhaddou" .
+<http://www.wikidata.org/entity/Q391215> <http://example.org/monuments#creationYear> "-0399-01-01T00:00:00Z" .
+<http://www.wikidata.org/entity/Q309436> <http://example.org/monuments#continent> "Africa" .
+<http://www.wikidata.org/entity/Q310719> <http://example.org/monuments#country> "South Africa" .
+<http://www.wikidata.org/entity/Q379080> <http://example.org/monuments#country> "Kenya" .

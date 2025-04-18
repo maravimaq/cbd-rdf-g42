@@ -1,0 +1,20 @@
+@prefix ns1: <http://example.org/monuments#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.wikidata.org/entity/Q205558> a ns1:Monument ;
+    ns1:architecturalStyle "Gothic architecture",
+        "Renaissance architecture",
+        "Romanesque architecture" ;
+    ns1:continent "Europe" ;
+    ns1:country "Slovakia" ;
+    ns1:creationYear "1200-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Spiš Castle" .
+
+<http://www.wikidata.org/entity/Q391229> a ns1:Monument ;
+    ns1:architecturalStyle "Gothic architecture",
+        "Romanesque architecture" ;
+    ns1:continent "Europe" ;
+    ns1:country "Belgium" ;
+    ns1:creationYear "1101-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Tournai Cathedral" .
+

@@ -1,0 +1,111 @@
+@prefix ns1: <http://example.org/monuments#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.wikidata.org/entity/Q188938> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "Tunisia" ;
+    ns1:name "Djerba" .
+
+<http://www.wikidata.org/entity/Q190048> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "Algeria" ;
+    ns1:name "Tassili n'Ajjer" .
+
+<http://www.wikidata.org/entity/Q192493> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "South Africa" ;
+    ns1:name "Robben Island" .
+
+<http://www.wikidata.org/entity/Q209217> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "Zimbabwe" ;
+    ns1:name "Great Zimbabwe" .
+
+<http://www.wikidata.org/entity/Q214007> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "Botswana" ;
+    ns1:name "Tsodilo" .
+
+<http://www.wikidata.org/entity/Q244347> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "Senegal" ;
+    ns1:name "Gorée" .
+
+<http://www.wikidata.org/entity/Q263883> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "Republic of the Congo" ;
+    ns1:creationYear "1935-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Odzala National Park" .
+
+<http://www.wikidata.org/entity/Q272768> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "Seychelles" ;
+    ns1:name "Aldabra" .
+
+<http://www.wikidata.org/entity/Q273456> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "Ethiopia" ;
+    ns1:name "Omo River" .
+
+<http://www.wikidata.org/entity/Q308807> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "Libya" ;
+    ns1:name "Tadrart Acacus" .
+
+<http://www.wikidata.org/entity/Q308893> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "Democratic Republic of the Congo" ;
+    ns1:creationYear "1938-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Garamba National Park" .
+
+<http://www.wikidata.org/entity/Q309426> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "Uganda" ;
+    ns1:name "Kasubi Tombs" .
+
+<http://www.wikidata.org/entity/Q309436> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "Morocco" ;
+    ns1:name "Aït Benhaddou" .
+
+<http://www.wikidata.org/entity/Q310719> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "South Africa" ;
+    ns1:creationYear "2000-11-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "iSimangaliso Wetland Park" .
+
+<http://www.wikidata.org/entity/Q328488> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "Democratic Republic of the Congo" ;
+    ns1:creationYear "1970-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Salonga National Park" .
+
+<http://www.wikidata.org/entity/Q328577> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "Ivory Coast" ;
+    ns1:creationYear "1972-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Taï National Park" .
+
+<http://www.wikidata.org/entity/Q330095> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "South Africa" ;
+    ns1:name "Vredefort crater" .
+
+<http://www.wikidata.org/entity/Q331099> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "Mozambique" ;
+    ns1:name "Island of Mozambique" .
+
+<http://www.wikidata.org/entity/Q379080> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "Kenya" ;
+    ns1:creationYear "1593-04-11T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:hasArchitect "Giovanni Battista Cairati" ;
+    ns1:name "Fort Jesus Museum" .
+
+<http://www.wikidata.org/entity/Q391215> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "Morocco" ;
+    ns1:creationYear "-0399-01-01T00:00:00Z" ;
+    ns1:name "Volubilis" .
+
