@@ -14,97 +14,187 @@ def save_graph(graph, name):
     graph.serialize(destination=path, format="turtle")
     print(f"{name} ({len(monuments)} monumentos) -> Guardado en: {path}")
 
+def run_construct(query, name):
+    g2 = g.query(query, initNs={"ex": EX})
+    save_graph(g2.graph, name)
+
 print('\nGrafo con todos los monumentos y su país')
-g2 = Graph()
-for s, o in g.subject_objects(EX.country):
-    g2.add((s, EX.country, o))
-save_graph(g2, "monuments_with_country")
+run_construct("""
+CONSTRUCT {
+  ?m ex:country ?country .
+}
+WHERE {
+  ?m a ex:Monument ;
+     ex:country ?country .
+}
+""", "monuments_with_country")
 
 print('\nGrafo con monumentos en Europa')
-g2 = Graph()
-for s in g.subjects(EX.continent, Literal("Europe")):
-    g2 += g.triples((s, None, None))
-save_graph(g2, "monuments_in_europe")
+run_construct("""
+CONSTRUCT {
+  ?m ?p ?o .
+}
+WHERE {
+  ?m a ex:Monument ;
+     ex:continent "Europe" ;
+     ?p ?o .
+}
+""", "monuments_in_europe")
 
 print('\nGrafo con monumentos en Asia')
-g2 = Graph()
-for s in g.subjects(EX.continent, Literal("Asia")):
-    g2 += g.triples((s, None, None))
-save_graph(g2, "monuments_in_asia")
+run_construct("""
+CONSTRUCT {
+  ?m ?p ?o .
+}
+WHERE {
+  ?m a ex:Monument ;
+     ex:continent "Asia" ;
+     ?p ?o .
+}
+""", "monuments_in_asia")
 
 print('\nGrafo con monumentos en América del Norte')
-g2 = Graph()
-for s in g.subjects(EX.continent, Literal("North America")):
-    g2 += g.triples((s, None, None))
-save_graph(g2, "monuments_in_north_america")
+run_construct("""
+CONSTRUCT {
+  ?m ?p ?o .
+}
+WHERE {
+  ?m a ex:Monument ;
+     ex:continent "North America" ;
+     ?p ?o .
+}
+""", "monuments_in_north_america")
 
 print('\nGrafo con monumentos en América del Sur')
-g2 = Graph()
-for s in g.subjects(EX.continent, Literal("South America")):
-    g2 += g.triples((s, None, None))
-save_graph(g2, "monuments_in_south_america")
+run_construct("""
+CONSTRUCT {
+  ?m ?p ?o .
+}
+WHERE {
+  ?m a ex:Monument ;
+     ex:continent "South America" ;
+     ?p ?o .
+}
+""", "monuments_in_south_america")
 
 print('\nGrafo con monumentos en África')
-g2 = Graph()
-for s in g.subjects(EX.continent, Literal("Africa")):
-    g2 += g.triples((s, None, None))
-save_graph(g2, "monuments_in_africa")
+run_construct("""
+CONSTRUCT {
+  ?m ?p ?o .
+}
+WHERE {
+  ?m a ex:Monument ;
+     ex:continent "Africa" ;
+     ?p ?o .
+}
+""", "monuments_in_africa")
 
 print('\nGrafo con monumentos en Oceanía')
-g2 = Graph()
-for s in g.subjects(EX.continent, Literal("Oceania")):
-    g2 += g.triples((s, None, None))
-save_graph(g2, "monuments_in_oceania")
+run_construct("""
+CONSTRUCT {
+  ?m ?p ?o .
+}
+WHERE {
+  ?m a ex:Monument ;
+     ex:continent "Oceania" ;
+     ?p ?o .
+}
+""", "monuments_in_oceania")
 
 print('\nGrafo con monumentos y su estilo arquitectónico')
-g2 = Graph()
-for s, o in g.subject_objects(EX.architecturalStyle):
-    g2.add((s, EX.architecturalStyle, o))
-save_graph(g2, "monuments_with_style")
+run_construct("""
+CONSTRUCT {
+  ?m ex:architecturalStyle ?style .
+}
+WHERE {
+  ?m a ex:Monument ;
+     ex:architecturalStyle ?style .
+}
+""", "monuments_with_style")
 
 print('\nMonumentos con arquitectos conocidos')
-g2 = Graph()
-for s, o in g.subject_objects(EX.hasArchitect):
-    g2.add((s, EX.hasArchitect, o))
-save_graph(g2, "monuments_with_architect")
+run_construct("""
+CONSTRUCT {
+  ?m ex:hasArchitect ?a .
+}
+WHERE {
+  ?m a ex:Monument ;
+     ex:hasArchitect ?a .
+}
+""", "monuments_with_architect")
 
-print('\nMonumentos en países específicos(Italia, Francia y España)')
-target_countries = {"Italy", "France", "Spain"}
-g2 = Graph()
-for s, o in g.subject_objects(EX.country):
-    if str(o) in target_countries:
-        g2 += g.triples((s, None, None))
-save_graph(g2, "monuments_in_specific_countries")
+print('\nMonumentos en países específicos (Italia, Francia y España)')
+run_construct("""
+CONSTRUCT {
+  ?m ?p ?o .
+}
+WHERE {
+  ?m a ex:Monument ;
+     ex:country ?country ;
+     ?p ?o .
+  FILTER (?country IN ("Italy", "France", "Spain"))
+}
+""", "monuments_in_specific_countries")
 
 print('\nMonumentos con tipo definido')
-g2 = Graph()
-for s, o in g.subject_objects(EX.type):
-    g2.add((s, EX.type, o))
-save_graph(g2, "monuments_with_type")
+run_construct("""
+CONSTRUCT {
+  ?m ex:type ?type .
+}
+WHERE {
+  ?m a ex:Monument ;
+     ex:type ?type .
+}
+""", "monuments_with_type")
 
 print('\nMonumentos con año de creación')
-g2 = Graph()
-for s, o in g.subject_objects(EX.creationYear):
-    g2.add((s, EX.creationYear, o))
-save_graph(g2, "monuments_with_year")
+run_construct("""
+CONSTRUCT {
+  ?m ex:creationYear ?year .
+}
+WHERE {
+  ?m a ex:Monument ;
+     ex:creationYear ?year .
+}
+""", "monuments_with_year")
 
 print('\nGrafo reducido a propiedades name y country')
-g2 = Graph()
-for s in g.subjects(predicate=EX.name):
-    g2.add((s, EX.name, g.value(s, EX.name)))
-    g2.add((s, EX.country, g.value(s, EX.country)))
-save_graph(g2, "monuments_name_and_country")
+run_construct("""
+CONSTRUCT {
+  ?m ex:name ?name ;
+     ex:country ?country .
+}
+WHERE {
+  ?m a ex:Monument ;
+     ex:name ?name ;
+     ex:country ?country .
+}
+""", "monuments_name_and_country")
 
 print('\nMonumentos en Europa con estilo arquitectónico gótico')
-g2 = Graph()
-for s in g.subjects(EX.continent, Literal("Europe")):
-    if g.value(s, EX.architecturalStyle) == Literal("Gothic architecture"):
-        g2 += g.triples((s, None, None))
-save_graph(g2, "gothic_monuments_in_europe")
+run_construct("""
+CONSTRUCT {
+  ?m ?p ?o .
+}
+WHERE {
+  ?m a ex:Monument ;
+     ex:continent "Europe" ;
+     ex:architecturalStyle "Gothic architecture" ;
+     ?p ?o .
+}
+""", "gothic_monuments_in_europe")
 
 print('\nSubgrafo de monumentos creados antes del año 1500')
-g2 = Graph()
-for s, y in g.subject_objects(EX.creationYear):
-    if str(y).isdigit() and int(str(y)) < 1500:
-        g2 += g.triples((s, None, None))
-save_graph(g2, "monuments_before_1500")
+run_construct("""
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+CONSTRUCT {
+  ?m ?p ?o .
+}
+WHERE {
+  ?m a ex:Monument ;
+     ex:creationYear ?year ;
+     ?p ?o .
+  FILTER(xsd:integer(SUBSTR(STR(?year), 1, 4)) < 1500)
+}
+""", "monuments_before_1500")
+

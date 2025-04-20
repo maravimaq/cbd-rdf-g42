@@ -29,7 +29,7 @@ WHERE {
 }
 """
 constructed += g.query(construct_query)
-constructed.serialize(destination="data/modified_graph/original_graph.ttl", format="ttl")
+constructed.serialize(destination="data/modified_graphs/original_graph.ttl", format="ttl")
 
 # Eliminar fecha de creación de Zeyrek Mosque
 zeyrek_uri = URIRef("http://www.wikidata.org/entity/Q197094")
@@ -39,6 +39,10 @@ constructed.remove((zeyrek_uri, EX.creationYear, None))
 himeji_uri = URIRef("http://www.wikidata.org/entity/Q188754")
 constructed.remove((himeji_uri, EX.name, Literal("Himeji Castle")))
 constructed.add((himeji_uri, EX.name, Literal("Himeji Fortress")))
+
+# Añadir tipo al monumento Gobustan
+gobustan_uri = URIRef("http://www.wikidata.org/entity/Q318181")
+constructed.add((gobustan_uri, EX.type, Literal("Rock Art Site")))
 
 # Añadir tipo al monumento Gobustan
 gobustan_uri = URIRef("http://www.wikidata.org/entity/Q318181")
@@ -71,7 +75,7 @@ for s, p, o in constructed.triples((None, EX.name, Literal("Sinharaja Forest Res
     constructed.remove((s, EX.name, o))
     constructed.add((s, EX.name, Literal("Sinharaja Grand Forest Reserve")))
 
-constructed.serialize(destination="data/modified_graph/simple_modifications_graph.ttl", format="ttl")
+constructed.serialize(destination="data/modified_graphs/simple_modifications_graph.ttl", format="ttl")
 
 # Modificar nombres con `.value()`
 for subj in constructed.subjects(predicate=EX.continent, object=Literal("Asia")):
@@ -85,7 +89,7 @@ for subj in constructed.subjects(predicate=EX.continent, object=Literal("Asia"))
         except Exception as e:
             print(f"Error procesando fecha: {year_literal} - {e}")
 
-constructed.serialize("data/modified_graph/value_modifications_graph.ttl", format="ttl")
+constructed.serialize("data/modified_graphs/value_modifications_graph.ttl", format="ttl")
 
 # Añadir 3 monumentos nuevos
 new_monuments = {
@@ -125,4 +129,4 @@ for qid in new_monuments:
 # 4. Eliminar el continente de todos los monumentos
 constructed.remove((None, EX.continent, None))
 
-constructed.serialize("data/modified_graph/complex_modifications_graph.ttl", format="ttl")
+constructed.serialize("data/modified_graphs/complex_modifications_graph.ttl", format="ttl")

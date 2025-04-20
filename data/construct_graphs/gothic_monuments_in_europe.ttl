@@ -10,6 +10,22 @@
     ns1:creationYear "1200-01-01T00:00:00+00:00"^^xsd:dateTime ;
     ns1:name "Spiš Castle" .
 
+<http://www.wikidata.org/entity/Q209643> a ns1:Monument ;
+    ns1:architecturalStyle "Belarusian Gothic",
+        "Gothic architecture",
+        "Renaissance architecture",
+        "baroque architecture" ;
+    ns1:continent "Europe" ;
+    ns1:country "Belarus" ;
+    ns1:name "Mir Castle Complex" .
+
+<http://www.wikidata.org/entity/Q215429> a ns1:Monument ;
+    ns1:architecturalStyle "Gothic Revival",
+        "Gothic architecture" ;
+    ns1:continent "Europe" ;
+    ns1:country "Belgium" ;
+    ns1:name "Grand-Place" .
+
 <http://www.wikidata.org/entity/Q391229> a ns1:Monument ;
     ns1:architecturalStyle "Gothic architecture",
         "Romanesque architecture" ;

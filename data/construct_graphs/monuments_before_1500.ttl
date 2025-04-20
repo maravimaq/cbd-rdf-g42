@@ -1,1 +1,214 @@
+@prefix ns1: <http://example.org/monuments#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.wikidata.org/entity/Q184427> a ns1:Monument ;
+    ns1:continent "Asia" ;
+    ns1:country "India" ;
+    ns1:creationYear "-0200-01-01T00:00:00Z" ;
+    ns1:name "Ajanta Caves" .
+
+<http://www.wikidata.org/entity/Q188754> a ns1:Monument ;
+    ns1:architecturalStyle "Japanese castle architecture" ;
+    ns1:continent "Asia" ;
+    ns1:country "Japan" ;
+    ns1:creationYear "1346-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Himeji Castle" .
+
+<http://www.wikidata.org/entity/Q189417> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "Italy" ;
+    ns1:creationYear "-0311-01-01T00:00:00Z" ;
+    ns1:name "Appian Way" .
+
+<http://www.wikidata.org/entity/Q189764> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "France" ;
+    ns1:creationYear "0050-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Pont du Gard" .
+
+<http://www.wikidata.org/entity/Q191763> a ns1:Monument ;
+    ns1:architecturalStyle "Shinden-zukuri" ;
+    ns1:continent "Asia" ;
+    ns1:country "Japan" ;
+    ns1:creationYear "0593-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Itsukushima Shrine" .
+
+<http://www.wikidata.org/entity/Q192522> a ns1:Monument ;
+    ns1:continent "Asia" ;
+    ns1:country "Turkey" ;
+    ns1:creationYear "-7499-01-01T00:00:00Z" ;
+    ns1:name "Çatalhöyük" .
+
+<http://www.wikidata.org/entity/Q197094> a ns1:Monument ;
+    ns1:architecturalStyle "Byzantine architecture" ;
+    ns1:continent "Asia" ;
+    ns1:country "Turkey" ;
+    ns1:creationYear "1136-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Zeyrek Mosque" .
+
+<http://www.wikidata.org/entity/Q200200> a ns1:Monument ;
+    ns1:continent "Asia" ;
+    ns1:country "Iraq" ;
+    ns1:creationYear "-2499-01-01T00:00:00Z" ;
+    ns1:name "Assur" .
+
+<http://www.wikidata.org/entity/Q205558> a ns1:Monument ;
+    ns1:architecturalStyle "Gothic architecture",
+        "Renaissance architecture",
+        "Romanesque architecture" ;
+    ns1:continent "Europe" ;
+    ns1:country "Slovakia" ;
+    ns1:creationYear "1200-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Spiš Castle" .
+
+<http://www.wikidata.org/entity/Q207985> a ns1:Monument ;
+    ns1:architecturalStyle "classic gothic" ;
+    ns1:continent "Europe" ;
+    ns1:country "France" ;
+    ns1:creationYear "1195-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Bourges Cathedral" .
+
+<http://www.wikidata.org/entity/Q208633> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "Italy" ;
+    ns1:creationYear "1335-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:hasArchitect "Neri di Fioravante" ;
+    ns1:name "Ponte Vecchio" .
+
+<http://www.wikidata.org/entity/Q209705> a ns1:Monument ;
+    ns1:architecturalStyle "Brick Gothic" ;
+    ns1:continent "Europe" ;
+    ns1:country "Denmark" ;
+    ns1:creationYear "1201-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:hasArchitect "Absalon" ;
+    ns1:name "Roskilde Cathedral" .
+
+<http://www.wikidata.org/entity/Q210678> a ns1:Monument ;
+    ns1:architecturalStyle "Romanesque architecture" ;
+    ns1:continent "Europe" ;
+    ns1:country "Norway" ;
+    ns1:creationYear "1101-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Urnes Stave Church" .
+
+<http://www.wikidata.org/entity/Q210957> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "United Kingdom" ;
+    ns1:creationYear "0142-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Antonine Wall" .
+
+<http://www.wikidata.org/entity/Q211252> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "Spain" ;
+    ns1:creationYear "1000-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Madinat Al-Zahra" .
+
+<http://www.wikidata.org/entity/Q211962> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "Russia" ;
+    ns1:creationYear "1337-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Trinity Lavra of St. Sergius" .
+
+<http://www.wikidata.org/entity/Q214944> a ns1:Monument ;
+    ns1:continent "Asia" ;
+    ns1:country "Turkey" ;
+    ns1:creationYear "-9999-01-01T00:00:00Z" ;
+    ns1:name "Göbekli Tepe" .
+
+<http://www.wikidata.org/entity/Q242741> a ns1:Monument ;
+    ns1:architecturalStyle "Ionic order",
+        "ancient Greek architecture" ;
+    ns1:continent "Europe" ;
+    ns1:country "Greece" ;
+    ns1:creationYear "-0500-01-01T00:00:00Z" ;
+    ns1:hasArchitect "Mnesikles",
+        "Phidias" ;
+    ns1:name "Erechtheion" .
+
+<http://www.wikidata.org/entity/Q244952> a ns1:Monument ;
+    ns1:architecturalStyle "Italian Gothic architecture",
+        "Renaissance architecture" ;
+    ns1:continent "Europe" ;
+    ns1:country "Italy" ;
+    ns1:creationYear "1401-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:hasArchitect "Donato Bramante",
+        "Guiniforte Solari",
+        "Piero Portaluppi" ;
+    ns1:name "Santa Maria delle Grazie Church" .
+
+<http://www.wikidata.org/entity/Q245151> a ns1:Monument ;
+    ns1:architecturalStyle "ancient Roman architecture" ;
+    ns1:continent "Europe" ;
+    ns1:country "Spain" ;
+    ns1:creationYear "0100-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Tower of Hercules" .
+
+<http://www.wikidata.org/entity/Q276553> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "Bulgaria" ;
+    ns1:creationYear "0980-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Boyana Church" .
+
+<http://www.wikidata.org/entity/Q277540> a ns1:Monument ;
+    ns1:continent "South America" ;
+    ns1:country "Peru" ;
+    ns1:creationYear "0850-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Chan Chan" .
+
+<http://www.wikidata.org/entity/Q284444> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "France" ;
+    ns1:creationYear "1177-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:hasArchitect "Jean de Tensanges" ;
+    ns1:name "pont Saint-Bénézet" .
+
+<http://www.wikidata.org/entity/Q319296> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "Bulgaria" ;
+    ns1:creationYear "0710-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Madara Rider" ;
+    ns1:type "bas-relief",
+        "monumental sculpture",
+        "public art" .
+
+<http://www.wikidata.org/entity/Q333661> a ns1:Monument ;
+    ns1:continent "North America" ;
+    ns1:country "United States" ;
+    ns1:creationYear "1050-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Cahokia" .
+
+<http://www.wikidata.org/entity/Q339489> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "Ireland" ;
+    ns1:creationYear "-3499-01-01T00:00:00Z" ;
+    ns1:name "Brú na Bóinne" .
+
+<http://www.wikidata.org/entity/Q384813> a ns1:Monument ;
+    ns1:architecturalStyle "Ionic order",
+        "amphiprostyle",
+        "tetrastyle" ;
+    ns1:continent "Europe" ;
+    ns1:country "Greece" ;
+    ns1:creationYear "-0425-01-01T00:00:00Z" ;
+    ns1:hasArchitect "Callicrates" ;
+    ns1:name "Temple of Athena Nike" .
+
+<http://www.wikidata.org/entity/Q385086> a ns1:Monument ;
+    ns1:continent "Europe" ;
+    ns1:country "Cyprus" ;
+    ns1:creationYear "-7000-01-01T00:00:00Z" ;
+    ns1:name "Khirokitia" .
+
+<http://www.wikidata.org/entity/Q391215> a ns1:Monument ;
+    ns1:continent "Africa" ;
+    ns1:country "Morocco" ;
+    ns1:creationYear "-0399-01-01T00:00:00Z" ;
+    ns1:name "Volubilis" .
+
+<http://www.wikidata.org/entity/Q391229> a ns1:Monument ;
+    ns1:architecturalStyle "Gothic architecture",
+        "Romanesque architecture" ;
+    ns1:continent "Europe" ;
+    ns1:country "Belgium" ;
+    ns1:creationYear "1101-01-01T00:00:00+00:00"^^xsd:dateTime ;
+    ns1:name "Tournai Cathedral" .
 

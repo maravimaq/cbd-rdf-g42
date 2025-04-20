@@ -3,7 +3,8 @@
 <http://www.wikidata.org/entity/Q184427> ns1:country "India" ;
     ns1:name "Ajanta Caves" .
 
-<http://www.wikidata.org/entity/Q184429> ns1:country "Romania" ;
+<http://www.wikidata.org/entity/Q184429> ns1:country "Romania",
+        "Ukraine" ;
     ns1:name "Danube Delta" .
 
 <http://www.wikidata.org/entity/Q184534> ns1:country "Turkey" ;
@@ -75,7 +76,16 @@
 <http://www.wikidata.org/entity/Q192201> ns1:country "Austria" ;
     ns1:name "Wachau" .
 
-<http://www.wikidata.org/entity/Q192243> ns1:country "Belarus" ;
+<http://www.wikidata.org/entity/Q192243> ns1:country "Belarus",
+        "Estonia",
+        "Finland",
+        "Latvia",
+        "Lithuania",
+        "Moldova",
+        "Norway",
+        "Russia",
+        "Sweden",
+        "Ukraine" ;
     ns1:name "Struve Geodetic Arc" .
 
 <http://www.wikidata.org/entity/Q192493> ns1:country "South Africa" ;
@@ -87,7 +97,8 @@
 <http://www.wikidata.org/entity/Q192522> ns1:country "Turkey" ;
     ns1:name "Çatalhöyük" .
 
-<http://www.wikidata.org/entity/Q192666> ns1:country "Belarus" ;
+<http://www.wikidata.org/entity/Q192666> ns1:country "Belarus",
+        "Poland" ;
     ns1:name "Białowieża Forest" .
 
 <http://www.wikidata.org/entity/Q192764> ns1:country "India" ;
