@@ -34,11 +34,11 @@ queries = [
                ex:architecturalStyle "Gothic architecture" .
         }
     '''),
-    ("Monumentos diseñados por Antonine Wall", '''
+    ("Monumentos diseñados por Donato Bramante", '''
         PREFIX ex: <http://example.org/monuments#>
         DESCRIBE ?m WHERE {
             ?m a ex:Monument ;
-               ex:hasArchitect "Antonine Wall" .
+               ex:hasArchitect "Donato Bramante" .
         }
     '''),
     ("Monumentos del siglo 20", '''
