@@ -95,6 +95,12 @@ Se puede:
 - Consultar si existe el monumento "Göbekli Tepe" → `ask_queries.py`
 - Modificar nombre de "Himeji Castle" → `modify_graph.py`
 
+
+
 ---
-Archivo generado por ChatGPT: https://chatgpt.com/share/6807f415-1178-800a-8418-081190724e91
+
+
+
+Archivo generado por ChatGPT:  https://chatgpt.com/share/6807f415-1178-800a-8418-081190724e91
+
 ----
